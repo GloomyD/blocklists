@@ -1,3 +1,13 @@
+---
+name: "AI Slop / SEO spam"
+description: "Domains producing low-quality AI-generated or SEO-spam content (manually curated)."
+homepage: "https://github.com/GloomyD/blocklists"
+license: CC-BY-4.0
+version: 1
+generated_at: 2026-02-20T18:14:31Z
+domains_count: 100
+---
+
 *://*.24matins.fr/*
 *://*.75secondes.fr/*
 *://*.8mars15h40.fr/*

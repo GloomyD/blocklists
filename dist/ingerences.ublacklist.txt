@@ -1,3 +1,13 @@
+---
+name: "Foreign interference (Viginum)"
+description: "Domains linked to foreign interference operations (source: Viginum + manual additions)."
+homepage: "https://github.com/GloomyD/blocklists"
+license: CC-BY-4.0
+version: 1
+generated_at: 2026-02-20T18:14:31Z
+domains_count: 1008
+---
+
 *://*.20minuts.com/*
 *://*.50statesoflie.com/*
 *://*.50statesoflie.so/*

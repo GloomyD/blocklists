@@ -1,3 +1,13 @@
+---
+name: "Conspiracy content"
+description: "Domains repeatedly sharing conspiracy/fake news content (manually curated)."
+homepage: "https://github.com/GloomyD/blocklists"
+license: CC-BY-4.0
+version: 1
+generated_at: 2026-02-20T18:14:31Z
+domains_count: 20
+---
+
 *://*.apar.tv/*
 *://*.bonsens.info/*
 *://*.breitbart.com/*

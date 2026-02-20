@@ -200,39 +200,39 @@ def main():
     if p.exists():
         ia_seo |= read_source_txt(p)
 
-# Outputs (NextDNS + uBlacklist)
-write_nextdns(ingerences, dist / "ingerences.nextdns.txt")
-write_ublacklist(
-    ingerences,
-    dist / "ingerences.ublacklist.txt",
-    name=UBL_META["ingerences"]["name"],
-    description=UBL_META["ingerences"]["description"],
-    homepage=HOMEPAGE,
-)
+    # Outputs (NextDNS + uBlacklist)
+    write_nextdns(ingerences, dist / "ingerences.nextdns.txt")
+    write_ublacklist(
+        ingerences,
+        dist / "ingerences.ublacklist.txt",
+        name=UBL_META["ingerences"]["name"],
+        description=UBL_META["ingerences"]["description"],
+        homepage=HOMEPAGE,
+    )
 
-write_nextdns(complotistes, dist / "complotistes.nextdns.txt")
-write_ublacklist(
-    complotistes,
-    dist / "complotistes.ublacklist.txt",
-    name=UBL_META["complotistes"]["name"],
-    description=UBL_META["complotistes"]["description"],
-    homepage=HOMEPAGE,
-)
+    write_nextdns(complotistes, dist / "complotistes.nextdns.txt")
+    write_ublacklist(
+        complotistes,
+        dist / "complotistes.ublacklist.txt",
+        name=UBL_META["complotistes"]["name"],
+        description=UBL_META["complotistes"]["description"],
+        homepage=HOMEPAGE,
+    )
 
-write_nextdns(ia_seo, dist / "ia-seo.nextdns.txt")
-write_ublacklist(
-    ia_seo,
-    dist / "ia-seo.ublacklist.txt",
-    name=UBL_META["ia-seo"]["name"],
-    description=UBL_META["ia-seo"]["description"],
-    homepage=HOMEPAGE,
-)
+    write_nextdns(ia_seo, dist / "ia-seo.nextdns.txt")
+    write_ublacklist(
+        ia_seo,
+        dist / "ia-seo.ublacklist.txt",
+        name=UBL_META["ia-seo"]["name"],
+        description=UBL_META["ia-seo"]["description"],
+        homepage=HOMEPAGE,
+    )
 
-print("OK:")
-print(f"- ingerences:  {len(ingerences)}")
-print(f"- complotistes:{len(complotistes)}")
-print(f"- ia-seo:      {len(ia_seo)}")
-print(f"Generated in: {dist}")
+    print("OK:")
+    print(f"- ingerences:  {len(ingerences)}")
+    print(f"- complotistes:{len(complotistes)}")
+    print(f"- ia-seo:      {len(ia_seo)}")
+    print(f"Generated in: {dist}")
 
 if __name__ == "__main__":
     main()

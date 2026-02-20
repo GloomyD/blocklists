@@ -4,6 +4,7 @@ import json
 import re
 from pathlib import Path
 from typing import Iterable, Set
+from datetime import datetime
 
 DOMAIN_RE = re.compile(
     r"^(?:\*\.)?([a-z0-9](?:[a-z0-9\-]{0,61}[a-z0-9])?(?:\.[a-z0-9](?:[a-z0-9\-]{0,61}[a-z0-9])?)+)$",
@@ -128,15 +129,46 @@ def read_stix_json_domains(path: Path) -> Set[str]:
 def write_nextdns(domains: Set[str], outpath: Path):
     outpath.write_text("\n".join(sorted(domains)) + "\n", encoding="utf-8")
 
-def write_ublacklist(domains: Set[str], outpath: Path):
+def write_ublacklist(domains: Set[str], outpath: Path, *, name: str, description: str, homepage: str):
+    generated_at = datetime.utcnow().replace(microsecond=0).isoformat() + "Z"
     rules = [f"*://*.{d}/*" for d in sorted(domains)]
-    outpath.write_text("\n".join(rules) + "\n", encoding="utf-8")
+
+    with outpath.open("w", encoding="utf-8") as f:
+        f.write("---\n")
+        safe_name = name.replace("\\", "\\\\").replace('"', '\\"')
+        f.write(f'name: "{safe_name}"\n')
+        safe_description = description.replace("\\", "\\\\").replace('"', '\\"')
+        f.write(f'description: "{safe_description}"\n')  
+        f.write(f"homepage: {homepage}\n")
+        f.write("license: CC-BY-4.0\n")
+        f.write("version: 1\n")
+        f.write(f"generated_at: {generated_at}\n")
+        f.write(f"domains_count: {len(domains)}\n")
+        f.write("---\n\n")
+        f.write("\n".join(rules))
+        f.write("\n")
 
 def main():
     repo_root = Path(__file__).resolve().parents[1]
     sources = repo_root / "sources"
     dist = repo_root / "dist"
     dist.mkdir(exist_ok=True)
+    HOMEPAGE = "https://github.com/GloomyD/blocklists"  # adapte si besoin
+
+UBL_META = {
+    "ingerences": {
+        "name": "Foreign interference (Viginum)",
+        "description": "Domains linked to foreign interference operations (source: Viginum + manual additions).",
+    },
+    "complotistes": {
+        "name": "Conspiracy content",
+        "description": "Domains repeatedly sharing conspiracy/fake news content (manually curated).",
+    },
+    "ia-seo": {
+        "name": "AI Slop / SEO spam",
+        "description": "Domains producing low-quality AI-generated or SEO-spam content (manually curated).",
+    },
+}
 
     # --- Build "ingerences" from VIGINUM + your extended adds
     ingerences: Set[str] = set()
@@ -165,14 +197,32 @@ def main():
         ia_seo |= read_source_txt(p)
 
     # Outputs (NextDNS + uBlacklist)
-    write_nextdns(ingerences, dist / "ingerences.nextdns.txt")
-    write_ublacklist(ingerences, dist / "ingerences.ublacklist.txt")
+write_nextdns(ingerences, dist / "ingerences.nextdns.txt")
+write_ublacklist(
+    ingerences,
+    dist / "ingerences.ublacklist.txt",
+    name=UBL_META["ingerences"]["name"],
+    description=UBL_META["ingerences"]["description"],
+    homepage=HOMEPAGE,
+)
 
-    write_nextdns(complotistes, dist / "complotistes.nextdns.txt")
-    write_ublacklist(complotistes, dist / "complotistes.ublacklist.txt")
+write_nextdns(complotistes, dist / "complotistes.nextdns.txt")
+write_ublacklist(
+    complotistes,
+    dist / "complotistes.ublacklist.txt",
+    name=UBL_META["complotistes"]["name"],
+    description=UBL_META["complotistes"]["description"],
+    homepage=HOMEPAGE,
+)
 
-    write_nextdns(ia_seo, dist / "ia-seo.nextdns.txt")
-    write_ublacklist(ia_seo, dist / "ia-seo.ublacklist.txt")
+write_nextdns(ia_seo, dist / "ia-seo.nextdns.txt")
+write_ublacklist(
+    ia_seo,
+    dist / "ia-seo.ublacklist.txt",
+    name=UBL_META["ia-seo"]["name"],
+    description=UBL_META["ia-seo"]["description"],
+    homepage=HOMEPAGE,
+)
 
     print("OK:")
     print(f"- ingerences:  {len(ingerences)}")

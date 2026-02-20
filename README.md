@@ -185,9 +185,10 @@ Chaque utilisateur reste responsable de l’usage qu’il en fait.
 
 ### 📰 Next.ink – Détection de sites générés par IA
 
-[Next.ink](https://next.ink/) publie une extension navigateur (Firefox & Chrome) permettant d’identifier des sites probablement générés massivement par des outils d’IA générative.
+[Next.ink](https://next.ink/173214/recap-nous-avons-decouvert-des-milliers-de-sites-dinfo-generes-par-ia-tous-nos-articles/) publie une extension navigateur (Firefox & Chrome) permettant d’identifier des sites probablement générés massivement par des outils d’IA générative.
 
 Leur travail remarquable recense plusieurs dizaines de milliers de sites générés par IA via une analyse à grande échelle.
+
 [Télécharger leur extension sur Firefox](https://addons.mozilla.org/fr/firefox/addon/alerte-sur-les-sites-genai/)
 [Télécharger leur extension sur Chrome](https://chromewebstore.google.com/detail/alerte-sur-les-sites-gena/bcmpghnhminmlljeomngepamejbopffc?authuser=0&hl=fr)
 

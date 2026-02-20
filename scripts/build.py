@@ -227,7 +227,6 @@ write_ublacklist(
     description=UBL_META["ia-seo"]["description"],
     homepage=HOMEPAGE,
 )
-
     print("OK:")
     print(f"- ingerences:  {len(ingerences)}")
     print(f"- complotistes:{len(complotistes)}")

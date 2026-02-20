@@ -6,6 +6,23 @@ from pathlib import Path
 from typing import Iterable, Set
 from datetime import datetime
 
+HOMEPAGE = "https://github.com/GloomyD/blocklists"
+
+UBL_META = {
+    "ingerences": {
+        "name": "Foreign interference (Viginum)",
+        "description": "Domains linked to foreign interference operations (source: Viginum + manual additions).",
+    },
+    "complotistes": {
+        "name": "Conspiracy content",
+        "description": "Domains repeatedly sharing conspiracy/fake news content (manually curated).",
+    },
+    "ia-seo": {
+        "name": "AI Slop / SEO spam",
+        "description": "Domains producing low-quality AI-generated or SEO-spam content (manually curated).",
+    },
+}
+
 DOMAIN_RE = re.compile(
     r"^(?:\*\.)?([a-z0-9](?:[a-z0-9\-]{0,61}[a-z0-9])?(?:\.[a-z0-9](?:[a-z0-9\-]{0,61}[a-z0-9])?)+)$",
     re.IGNORECASE,
@@ -133,13 +150,16 @@ def write_ublacklist(domains: Set[str], outpath: Path, *, name: str, description
     generated_at = datetime.utcnow().replace(microsecond=0).isoformat() + "Z"
     rules = [f"*://*.{d}/*" for d in sorted(domains)]
 
+    # évite les YAML cassés si guillemets / antislash
+    safe_name = name.replace("\\", "\\\\").replace('"', '\\"')
+    safe_description = description.replace("\\", "\\\\").replace('"', '\\"')
+    safe_homepage = homepage.replace("\\", "\\\\").replace('"', '\\"')
+
     with outpath.open("w", encoding="utf-8") as f:
         f.write("---\n")
-        safe_name = name.replace("\\", "\\\\").replace('"', '\\"')
         f.write(f'name: "{safe_name}"\n')
-        safe_description = description.replace("\\", "\\\\").replace('"', '\\"')
-        f.write(f'description: "{safe_description}"\n')  
-        f.write(f"homepage: {homepage}\n")
+        f.write(f'description: "{safe_description}"\n')
+        f.write(f'homepage: "{safe_homepage}"\n')
         f.write("license: CC-BY-4.0\n")
         f.write("version: 1\n")
         f.write(f"generated_at: {generated_at}\n")
@@ -153,22 +173,6 @@ def main():
     sources = repo_root / "sources"
     dist = repo_root / "dist"
     dist.mkdir(exist_ok=True)
-    HOMEPAGE = "https://github.com/GloomyD/blocklists"  # adapte si besoin
-
-UBL_META = {
-    "ingerences": {
-        "name": "Foreign interference (Viginum)",
-        "description": "Domains linked to foreign interference operations (source: Viginum + manual additions).",
-    },
-    "complotistes": {
-        "name": "Conspiracy content",
-        "description": "Domains repeatedly sharing conspiracy/fake news content (manually curated).",
-    },
-    "ia-seo": {
-        "name": "AI Slop / SEO spam",
-        "description": "Domains producing low-quality AI-generated or SEO-spam content (manually curated).",
-    },
-}
 
     # --- Build "ingerences" from VIGINUM + your extended adds
     ingerences: Set[str] = set()

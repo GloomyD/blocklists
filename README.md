@@ -15,10 +15,18 @@ This repository provides curated filter lists for **uBlacklist** and **NextDNS**
 - **NextDNS**: DNS resolver that blocks trackers, ads, and unwanted content at the network level.
   [Official website](https://nextdns.io/?from=zjmur6v8)
 
+### Available Lists
+You can subscribe to these lists directly in uBlacklist:
+   List Name                          | Subscribe Link                                                                                     |
+ |------------------------------------|----------------------------------------------------------------------------------------------------|
+ | Conspiracy content                 | [Subscribe](https://ublacklist.github.io/rulesets/subscribe?url=https%3A%2F%2Fraw.githubusercontent.com%2FGloomyD%2Fblocklists%2Frefs%2Fheads%2Fmain%2Fdist%2Fcomplotistes.ublacklist.txt) |
+ | AI-generated content (AI Slop/SEO) | [Subscribe](https://ublacklist.github.io/rulesets/subscribe?url=https%3A%2F%2Fraw.githubusercontent.com%2FGloomyD%2Fblocklists%2Frefs%2Fheads%2Fmain%2Fdist%2Fia-seo.ublacklist.txt) |
+ | Foreign interference (Viginum)     | [Subscribe](https://ublacklist.github.io/rulesets/subscribe?url=https%3A%2F%2Fraw.githubusercontent.com%2FGloomyD%2Fblocklists%2Frefs%2Fheads%2Fmain%2Fdist%2Fingerences.ublacklist.txt) |
+
 ### How to Use
 You can:
 - Manually add sites to block
-- Subscribe to public filter lists
+- Subscribe to public filter lists (see above)
 - Copy-paste lists from this repository
 
 ---
@@ -35,8 +43,16 @@ Ce dépôt propose des listes de filtres pour **uBlacklist** et **NextDNS**, afi
 - **NextDNS** : Résolveur DNS qui bloque traqueurs, publicités et contenus indésirables au niveau du réseau.
   [Site officiel](https://nextdns.io/?from=zjmur6v8)
 
+### Listes disponibles
+Vous pouvez vous abonner directement à ces listes dans uBlacklist :
+ | Nom de la liste                     | Lien d'abonnement                                                                                     |
+ |-------------------------------------|------------------------------------------------------------------------------------------------------|
+ | Contenus complotistes               | [S'abonner](https://ublacklist.github.io/rulesets/subscribe?url=https%3A%2F%2Fraw.githubusercontent.com%2FGloomyD%2Fblocklists%2Frefs%2Fheads%2Fmain%2Fdist%2Fcomplotistes.ublacklist.txt) |
+ | Contenus générés par IA (SEO)       | [S'abonner](https://ublacklist.github.io/rulesets/subscribe?url=https%3A%2F%2Fraw.githubusercontent.com%2FGloomyD%2Fblocklists%2Frefs%2Fheads%2Fmain%2Fdist%2Fia-seo.ublacklist.txt) |
+ | Ingérences étrangères (source Viginum) | [S'abonner](https://ublacklist.github.io/rulesets/subscribe?url=https%3A%2F%2Fraw.githubusercontent.com%2FGloomyD%2Fblocklists%2Frefs%2Fheads%2Fmain%2Fdist%2Fingerences.ublacklist.txt) |
+
 ### Comment utiliser ces listes ?
 Vous pouvez :
 - Ajouter manuellement les sites à bloquer
-- Vous abonner à des listes publiques de filtres
+- Vous abonner aux listes publiques de filtres (voir ci-dessus)
 - Copier-coller des listes depuis ce dépôt

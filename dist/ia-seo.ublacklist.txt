@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-02-20T21:33:58Z
-domains_count: 166
+generated_at: 2026-02-20T21:46:02Z
+domains_count: 169
 ---
 
 *://*.1entrepreneur.fr/*
@@ -147,6 +147,7 @@ domains_count: 166
 *://*.partitionchoeur.fr/*
 *://*.peaches.fr/*
 *://*.pension-reversion.fr/*
+*://*.philias.org/*
 *://*.pleinevie.fr/*
 *://*.press-select.fr/*
 *://*.projectdiva.fr/*
@@ -155,8 +156,10 @@ domains_count: 166
 *://*.reussir-sa-boite.fr/*
 *://*.revue-longcours.fr/*
 *://*.rive-gauche-decor.fr/*
+*://*.sain-et-naturel.ouest-france.fr/*
 *://*.sciencepost.fr/*
 *://*.scolinfo.net/*
+*://*.seniors-voyages.com/*
 *://*.sitespe.fr/*
 *://*.sixactualites.fr/*
 *://*.sobusygirls.fr/*

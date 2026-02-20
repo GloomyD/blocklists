@@ -26,6 +26,11 @@ def normalize_domain(s: str) -> str | None:
     if s.startswith("*."):
         s = s[2:]
 
+    # VIGINUM / IOC notations
+    s = s.replace("[.]", ".").replace("(.)", ".")
+    s = s.replace("[dot]", ".").replace("(dot)", ".")
+    s = s.replace("[", "").replace("]", "")
+
     m = DOMAIN_RE.match(s)
     if not m:
         return None

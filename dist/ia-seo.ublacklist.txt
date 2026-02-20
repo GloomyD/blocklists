@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-02-20T18:14:31Z
-domains_count: 100
+generated_at: 2026-02-20T19:43:19Z
+domains_count: 108
 ---
 
 *://*.24matins.fr/*
@@ -21,11 +21,14 @@ domains_count: 100
 *://*.amomama.fr/*
 *://*.ancclic.fr/*
 *://*.apres-lecole.fr/*
+*://*.aqui.fr/*
 *://*.argentauquotidien.com/*
 *://*.aro31.fr/*
 *://*.balsamik.fr/*
 *://*.bdor.fr/*
 *://*.bonjourbuzz.com/*
+*://*.bourseinside.fr/*
+*://*.brasseriemoliteuil.fr/*
 *://*.bretagne-bretons.fr/*
 *://*.bulletindescommunes.net/*
 *://*.buzzday.fr/*
@@ -44,6 +47,7 @@ domains_count: 100
 *://*.ecoledejulie.fr/*
 *://*.economiematin.fr/*
 *://*.econostrum.info/*
+*://*.elguacamoletaqueria.fr/*
 *://*.embarcadere-bordeaux.fr/*
 *://*.fautquonenparle.fr/*
 *://*.favrat-ossature-bois.fr/*
@@ -51,6 +55,7 @@ domains_count: 100
 *://*.franceflash.fr/*
 *://*.frenchtimes.fr/*
 *://*.gambin.co/*
+*://*.gr10.fr/*
 *://*.hanaumobilier.fr/*
 *://*.happy-seniors.fr/*
 *://*.hotelvalleebleue.fr/*
@@ -62,6 +67,7 @@ domains_count: 100
 *://*.journee-mondiale.com/*
 *://*.l-echo-des-seniors.fr/*
 *://*.la-maie-dantan.fr/*
+*://*.la-table-du-moulin.fr/*
 *://*.labottega-pinseria.fr/*
 *://*.lacreperiedupecheur.fr/*
 *://*.lagazette-ladefense.fr/*
@@ -85,6 +91,7 @@ domains_count: 100
 *://*.menumobile.fr/*
 *://*.misseve.fr/*
 *://*.mnei.fr/*
+*://*.my-jugaad.eu/*
 *://*.newsly.fr/*
 *://*.nextplz.fr/*
 *://*.notredamedelagarde.fr/*
@@ -95,6 +102,7 @@ domains_count: 100
 *://*.palmaresmagazine.com/*
 *://*.pam-fitness.com/*
 *://*.partitionchoeur.fr/*
+*://*.peaches.fr/*
 *://*.pension-reversion.fr/*
 *://*.pleinevie.fr/*
 *://*.provencedaily.com/*

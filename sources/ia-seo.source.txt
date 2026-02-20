@@ -11,10 +11,13 @@ amd-conseil.fr
 ancclic.fr
 amomama.fr
 apres-lecole.fr
+aqui.fr
 argentauquotidien.com
 aro31.fr
 balsamik.fr
 bdor.fr
+bourseinside.fr
+brasseriemoliteuil.fr
 bretagne-bretons.fr
 bulletindescommunes.net
 bonjourbuzz.com
@@ -34,6 +37,7 @@ duteurtre.com
 ecoledejulie.fr
 econostrum.info
 economiematin.fr
+elguacamoletaqueria.fr
 embarcadere-bordeaux.fr
 fautquonenparle.fr
 favrat-ossature-bois.fr
@@ -41,6 +45,7 @@ franceflash.fr
 francaismeme.com
 frenchtimes.fr
 gambin.co
+gr10.fr
 hanaumobilier.fr
 happy-seniors.fr
 hotelvalleebleue.fr
@@ -55,6 +60,7 @@ la-maie-dantan.fr
 labottega-pinseria.fr
 lacreperiedupecheur.fr
 lagazette-ladefense.fr
+la-table-du-moulin.fr
 lebigdata.fr
 le-blog-du-geek.net
 lemalpensant.fr
@@ -75,6 +81,7 @@ mediadi.fr
 menumobile.fr
 misseve.fr
 mnei.fr
+my-jugaad.eu
 newsly.fr
 nextplz.fr
 notredamedelagarde.fr
@@ -85,6 +92,7 @@ okazium.fr
 palmaresmagazine.com
 pam-fitness.com
 partitionchoeur.fr
+peaches.fr
 pension-reversion.fr
 pleinevie.fr
 provencedaily.com

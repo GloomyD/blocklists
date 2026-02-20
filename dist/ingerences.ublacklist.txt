@@ -4,7 +4,7 @@ description: "Domains linked to foreign interference operations (source: Viginum
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-02-20T19:43:19Z
+generated_at: 2026-02-20T20:17:14Z
 domains_count: 1131
 ---
 

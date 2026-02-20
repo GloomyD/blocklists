@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-02-20T19:43:19Z
-domains_count: 108
+generated_at: 2026-02-20T20:17:14Z
+domains_count: 121
 ---
 
 *://*.24matins.fr/*
@@ -26,6 +26,7 @@ domains_count: 108
 *://*.aro31.fr/*
 *://*.balsamik.fr/*
 *://*.bdor.fr/*
+*://*.beautycase.fr/*
 *://*.bonjourbuzz.com/*
 *://*.bourseinside.fr/*
 *://*.brasseriemoliteuil.fr/*
@@ -55,9 +56,11 @@ domains_count: 108
 *://*.franceflash.fr/*
 *://*.frenchtimes.fr/*
 *://*.gambin.co/*
+*://*.gillescharles.info/*
 *://*.gr10.fr/*
 *://*.hanaumobilier.fr/*
 *://*.happy-seniors.fr/*
+*://*.homeophyto.topsante.com/*
 *://*.hotelvalleebleue.fr/*
 *://*.imagyna.fr/*
 *://*.info07.com/*
@@ -66,12 +69,14 @@ domains_count: 108
 *://*.journaldeleconomie.fr/*
 *://*.journee-mondiale.com/*
 *://*.l-echo-des-seniors.fr/*
+*://*.l.modesettravaux.fr/*
 *://*.la-maie-dantan.fr/*
 *://*.la-table-du-moulin.fr/*
 *://*.labottega-pinseria.fr/*
 *://*.lacreperiedupecheur.fr/*
 *://*.lagazette-ladefense.fr/*
 *://*.le-blog-du-geek.net/*
+*://*.le-lagon.fr/*
 *://*.lebigdata.fr/*
 *://*.lemalpensant.fr/*
 *://*.lemoneymag.fr/*
@@ -79,6 +84,7 @@ domains_count: 108
 *://*.lepointdujour.fr/*
 *://*.les-smartgrids.fr/*
 *://*.lescrieursduweb.com/*
+*://*.lesdechargeurs.fr/*
 *://*.lesinguliersete.fr/*
 *://*.levague.fr/*
 *://*.lyonsecretdefense.com/*
@@ -89,10 +95,12 @@ domains_count: 108
 *://*.marmott.fr/*
 *://*.mediadi.fr/*
 *://*.menumobile.fr/*
+*://*.minoritaires.com/*
 *://*.misseve.fr/*
 *://*.mnei.fr/*
 *://*.my-jugaad.eu/*
 *://*.newsly.fr/*
+*://*.newsofmarseille.com/*
 *://*.nextplz.fr/*
 *://*.notredamedelagarde.fr/*
 *://*.nouvelles-dujour.com/*
@@ -106,6 +114,7 @@ domains_count: 108
 *://*.pension-reversion.fr/*
 *://*.pleinevie.fr/*
 *://*.provencedaily.com/*
+*://*.rive-gauche-decor.fr/*
 *://*.sciencepost.fr/*
 *://*.scolinfo.net/*
 *://*.sixactualites.fr/*
@@ -113,6 +122,10 @@ domains_count: 108
 *://*.superstarsblog.fr/*
 *://*.surlmag.fr/*
 *://*.thenicematin.fr/*
+*://*.ttu.fr/*
 *://*.umvie.com/*
+*://*.uniclima.org/*
+*://*.varactu.fr/*
 *://*.viralmag.fr/*
 *://*.vonews.fr/*
+*://*.weelim.fr/*

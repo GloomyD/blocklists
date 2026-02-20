@@ -200,7 +200,7 @@ def main():
     if p.exists():
         ia_seo |= read_source_txt(p)
 
-    # Outputs (NextDNS + uBlacklist)
+# Outputs (NextDNS + uBlacklist)
 write_nextdns(ingerences, dist / "ingerences.nextdns.txt")
 write_ublacklist(
     ingerences,
@@ -227,11 +227,12 @@ write_ublacklist(
     description=UBL_META["ia-seo"]["description"],
     homepage=HOMEPAGE,
 )
-    print("OK:")
-    print(f"- ingerences:  {len(ingerences)}")
-    print(f"- complotistes:{len(complotistes)}")
-    print(f"- ia-seo:      {len(ia_seo)}")
-    print(f"Generated in: {dist}")
+
+print("OK:")
+print(f"- ingerences:  {len(ingerences)}")
+print(f"- complotistes:{len(complotistes)}")
+print(f"- ia-seo:      {len(ia_seo)}")
+print(f"Generated in: {dist}")
 
 if __name__ == "__main__":
     main()

@@ -9,6 +9,7 @@ actubretagne.fr
 adcf.org
 adpc-77.fr
 agrisur.fr
+alcuinfonds.be
 amd-conseil.fr
 ameshillantiques.com
 amomama.fr
@@ -28,9 +29,11 @@ brasseriemoliteuil.fr
 bretagne-bretons.fr
 bulletindescommunes.net
 buzzday.fr
+cabinetcatteau.fr
 capretraite.fr
 carredinfo.fr
 ccchateaubriant.fr
+celimo.fr
 cercle-des-seniors.fr
 check-food.fr
 cjl-conseil.fr
@@ -38,12 +41,14 @@ cleaningtipstoday.com
 clicanoo.com
 conceptgraph.fr
 courirencharentemaritime.fr
+couteauduviaur.fr
 crdp-limousin.fr
 crdp-lyon.fr
 cultinfos.com
 datafin.fr
 decogeek.fr
 decontair-67.fr
+dieteticienne-mantes.fr
 divertissonsnous.com
 dmoz.fr
 dshop.se
@@ -64,6 +69,7 @@ francaismeme.com
 france-initiative.fr
 franceflash.fr
 frenchtimes.fr
+friendly-fire.fr
 gambin.co
 gillescharles.info
 globebooks.com
@@ -109,6 +115,7 @@ lesinguliersete.fr
 levague.fr
 lgblog.fr
 lyonsecretdefense.com
+magazine-economie.fr
 magazine-seniors.com
 maison-travaux.fr
 mall-center.shopping
@@ -121,6 +128,7 @@ misseve.fr
 mnei.fr
 monguidesenior.fr
 my-jugaad.eu
+myjournal.fr
 new-york-guide.fr
 newsly.fr
 newsofmarseille.com
@@ -131,6 +139,7 @@ nouvelles-dujour.com
 nuitfrance.fr
 numeriques.net
 okazium.fr
+open-espace.fr
 ours-macon.fr
 palmaresmagazine.com
 pam-fitness.com
@@ -142,6 +151,7 @@ pleinevie.fr
 press-select.fr
 projectdiva.fr
 provencedaily.com
+qapa.fr
 rdvprefecture.com
 reussir-sa-boite.fr
 revue-longcours.fr
@@ -149,6 +159,7 @@ rive-gauche-decor.fr
 sain-et-naturel.ouest-france.fr
 sciencepost.fr
 scolinfo.net
+seniors-magazine.net
 seniors-voyages.com
 sitespe.fr
 sixactualites.fr
@@ -157,11 +168,14 @@ soonnight.com
 splendia.com
 superstarsblog.fr
 surlmag.fr
+tekpolis.fr
 thenicematin.fr
+tirsportifchabris.fr
 todayfrance.fr
 ttu.fr
 umvie.com
 uniclima.org
+unjour-particulier.fr
 varactu.fr
 viralmag.fr
 vonews.fr

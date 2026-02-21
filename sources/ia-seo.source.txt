@@ -9,6 +9,7 @@ actubretagne.fr
 adcf.org
 adpc-77.fr
 agrisur.fr
+alcuinfonds.be
 amd-conseil.fr
 ameshillantiques.com
 ancclic.fr
@@ -28,6 +29,7 @@ brasseriemoliteuil.fr
 bretagne-bretons.fr
 bulletindescommunes.net
 buzzday.fr
+cabinetcatteau.fr
 capretraite.fr
 carredinfo.fr
 ccchateaubriant.fr
@@ -64,6 +66,7 @@ franceflash.fr
 france-initiative.fr
 francaismeme.com
 frenchtimes.fr
+friendly-fire.fr
 gambin.co
 globebooks.com
 GillesCharles.info
@@ -121,6 +124,7 @@ misseve.fr
 mnei.fr
 monguidesenior.fr
 my-jugaad.eu
+myjournal.fr
 newsly.fr
 newsofmarseille.com
 new-york-guide.fr
@@ -142,6 +146,7 @@ pleinevie.fr
 press-select.fr
 projectdiva.fr
 provencedaily.com
+qapa.fr
 rdvprefecture.com
 reussir-sa-boite.fr
 revue-longcours.fr
@@ -157,7 +162,9 @@ soonnight.com
 splendia.com
 superstarsblog.fr
 surlmag.fr
+tekpolis.fr
 thenicematin.fr
+tirsportifchabris.fr
 todayfrance.fr
 ttu.fr
 umvie.com
@@ -167,3 +174,10 @@ viralmag.fr
 vonews.fr
 votre-carte-grise.fr
 weelim.fr
+celimo.fr
+seniors-magazine.net
+couteauduviaur.fr
+dieteticienne-mantes.fr
+magazine-economie.fr
+unjour-particulier.fr
+open-espace.fr

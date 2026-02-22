@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-02-22T18:30:58Z
-domains_count: 187
+generated_at: 2026-02-22T19:37:18Z
+domains_count: 193
 ---
 
 *://*.1entrepreneur.fr/*
@@ -21,12 +21,15 @@ domains_count: 187
 *://*.agrisur.fr/*
 *://*.alcuinfonds.be/*
 *://*.amd-conseil.fr/*
+*://*.amelec35.fr/*
 *://*.ameshillantiques.com/*
 *://*.amomama.fr/*
 *://*.ancclic.fr/*
+*://*.apilorraine.fr/*
 *://*.apres-lecole.fr/*
 *://*.aqi.fr/*
 *://*.argentauquotidien.com/*
+*://*.armorsoccer.fr/*
 *://*.aro31.fr/*
 *://*.balsamik.fr/*
 *://*.bdor.fr/*
@@ -58,6 +61,7 @@ domains_count: 187
 *://*.datafin.fr/*
 *://*.decogeek.fr/*
 *://*.decontair-67.fr/*
+*://*.designers-avenue.com/*
 *://*.dieteticienne-mantes.fr/*
 *://*.divertissonsnous.com/*
 *://*.dmoz.fr/*
@@ -156,11 +160,13 @@ domains_count: 187
 *://*.ours-macon.fr/*
 *://*.palmaresmagazine.com/*
 *://*.pam-fitness.com/*
+*://*.paradisedeco.fr/*
 *://*.partitionchoeur.fr/*
 *://*.peaches.fr/*
 *://*.pension-reversion.fr/*
 *://*.philias.org/*
 *://*.pleinevie.fr/*
+*://*.potet-menuiserie.fr/*
 *://*.press-select.fr/*
 *://*.projectdiva.fr/*
 *://*.provencedaily.com/*

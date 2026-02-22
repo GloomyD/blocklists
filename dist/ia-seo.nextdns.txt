@@ -98,10 +98,12 @@ la-table-du-moulin.fr
 labottega-pinseria.fr
 lacreperiedupecheur.fr
 lagazette-ladefense.fr
+laminute.info
 laroutedeschenes.fr
 le-blog-du-geek.net
 le-lagon.fr
 lebigdata.fr
+lefootenbref.com
 lejsd.com
 lemalpensant.fr
 lemarchedesseniors.com
@@ -152,6 +154,7 @@ pleinevie.fr
 press-select.fr
 projectdiva.fr
 provencedaily.com
+psychostrategy.net
 qapa.fr
 rdvprefecture.com
 reussir-sa-boite.fr

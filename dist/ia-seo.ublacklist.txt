@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-02-21T10:17:24Z
-domains_count: 183
+generated_at: 2026-02-22T15:26:56Z
+domains_count: 184
 ---
 
 *://*.1entrepreneur.fr/*
@@ -92,6 +92,7 @@ domains_count: 183
 *://*.hotelvalleebleue.fr/*
 *://*.imagyna.fr/*
 *://*.immobilier-ville.fr/*
+*://*.incroyable.fr/*
 *://*.info07.com/*
 *://*.inspirefrance.fr/*
 *://*.isolr.fr/*

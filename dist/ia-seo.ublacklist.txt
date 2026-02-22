@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-02-22T15:37:08Z
-domains_count: 184
+generated_at: 2026-02-22T18:30:58Z
+domains_count: 187
 ---
 
 *://*.1entrepreneur.fr/*
@@ -108,10 +108,12 @@ domains_count: 184
 *://*.labottega-pinseria.fr/*
 *://*.lacreperiedupecheur.fr/*
 *://*.lagazette-ladefense.fr/*
+*://*.laminute.info/*
 *://*.laroutedeschenes.fr/*
 *://*.le-blog-du-geek.net/*
 *://*.le-lagon.fr/*
 *://*.lebigdata.fr/*
+*://*.lefootenbref.com/*
 *://*.lejsd.com/*
 *://*.lemalpensant.fr/*
 *://*.lemarchedesseniors.com/*
@@ -162,6 +164,7 @@ domains_count: 184
 *://*.press-select.fr/*
 *://*.projectdiva.fr/*
 *://*.provencedaily.com/*
+*://*.psychostrategy.net/*
 *://*.qapa.fr/*
 *://*.rdvprefecture.com/*
 *://*.reussir-sa-boite.fr/*

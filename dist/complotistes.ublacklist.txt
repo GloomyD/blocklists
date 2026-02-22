@@ -4,60 +4,87 @@ description: "Domains repeatedly sharing conspiracy/fake news content (manually 
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-02-22T15:37:08Z
-domains_count: 53
+generated_at: 2026-02-22T18:30:58Z
+domains_count: 80
 ---
 
 *://*.agoratv.ch/*
+*://*.alterinfo.net/*
 *://*.apar.tv/*
+*://*.artemisia-college.info/*
 *://*.bonsens.info/*
 *://*.breitbart.com/*
+*://*.breizh-info.com/*
 *://*.bvoltaire.fr/*
 *://*.carredinfo.fr/*
+*://*.civitas-international.org/*
+*://*.conseilnational.tv/*
+*://*.covidinfos.org/*
+*://*.cultpop.fr/*
 *://*.directe-sante.com/*
 *://*.divulgation.fr/*
+*://*.editionsethos.com/*
+*://*.editionsnouvelleterre.com/*
 *://*.egaliteetreconciliation.fr/*
 *://*.epochtimes.com/*
 *://*.epochtimes.fr/*
 *://*.facpanel.com/*
+*://*.faitsetdocuments.com/*
 *://*.fr.a7la-home.com/*
 *://*.francaismeme.com/*
 *://*.francesoir.fr/*
 *://*.geopolintel.fr/*
 *://*.geopolitique-profonde.com/*
 *://*.guyboulianne.com/*
+*://*.idrissaberkane.org/*
 *://*.imagyna.fr/*
+*://*.islametinfo.fr/*
 *://*.jbl1960blog.wordpress.com/*
 *://*.juste-milieu.fr/*
+*://*.lagdlt.com/*
+*://*.lahallebarde.com/*
 *://*.laminutedericardo.com/*
 *://*.latableronde.over-blog.com/*
 *://*.leblogalupus.com/*
 *://*.lecourrierdesstrateges.fr/*
 *://*.lejdd.fr/*
+*://*.lelibrepenseur.org/*
 *://*.lemalpensant.fr/*
 *://*.lemediaen442.fr/*
 *://*.lescrieursduweb.com/*
 *://*.lesdeqodeurs.fr/*
 *://*.lesmoutonsenrages.fr/*
 *://*.lilianeheldkhawam.com/*
+*://*.medias-presse.info/*
 *://*.misseve.fr/*
 *://*.news-24.fr/*
 *://*.news-pravda.com/*
+*://*.nexus.fr/*
 *://*.nouveau-monde.ca/*
+*://*.observateurcontinental.fr/*
 *://*.odysee.com/*
 *://*.olivierdemeulenaere.wordpress.com/*
+*://*.omertamedia.fr/*
 *://*.oumma.com/*
+*://*.parti-de-la-france.fr/*
 *://*.partitionchoeur.fr/*
 *://*.planetes360.fr/*
 *://*.pravda-fr.com/*
 *://*.profession-gendarme.com/*
 *://*.qactus.fr/*
+*://*.rc.fr/*
 *://*.reaction19.fr/*
 *://*.reinfocovid.fr/*
 *://*.reinfovf.com/*
 *://*.reseauinternational.net/*
 *://*.resistance-mondiale.com/*
+*://*.scanderia.com/*
+*://*.sputniknews.com/*
+*://*.stopworldcontrol.com/*
+*://*.theepochtimes.com/*
 *://*.thenicematin.fr/*
+*://*.tvlibertes.com/*
 *://*.umvie.com/*
 *://*.viedo-klis.lv/*
 *://*.voltairenet.org/*
+*://*.wikistrike.com/*

@@ -168,8 +168,16 @@ Sources :
 - Publications officielles : https://www.sgdsn.gouv.fr/publications/rapports-de-viginum
 - Dépôt GitHub officiel : https://github.com/VIGINUM-FR
 
+
+Autre travail utilisé, celui des chercheurs de l'IRSEM sur les ingérences chinoises dans le monde (Baybridge) via des agences de communications spécialisées pour diffuser des informations sur un réseau de sites liés à ces agences et usurpant l'identité de sites locaux.
+
+- Rapport officiel : https://www.irsem.fr/focus.html
+- Dépôt GitHub officiel : https://github.com/PaulGCharon/BayBridge
+
 Ce dépôt republie des noms de domaine extraits de documents publics à des fins de filtrage.
 Aucune qualification juridique n’est portée sur les domaines référencés.
+
+
 
 
 

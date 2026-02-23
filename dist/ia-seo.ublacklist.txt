@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-02-22T19:37:18Z
-domains_count: 193
+generated_at: 2026-02-23T17:04:00Z
+domains_count: 210
 ---
 
 *://*.1entrepreneur.fr/*
@@ -20,6 +20,7 @@ domains_count: 193
 *://*.adpc-77.fr/*
 *://*.agrisur.fr/*
 *://*.alcuinfonds.be/*
+*://*.ally43.fr/*
 *://*.amd-conseil.fr/*
 *://*.amelec35.fr/*
 *://*.ameshillantiques.com/*
@@ -39,6 +40,7 @@ domains_count: 193
 *://*.bourseinside.fr/*
 *://*.boutiquesenligne.fr/*
 *://*.brasseriemoliteuil.fr/*
+*://*.breakingnews.fr/*
 *://*.bretagne-bretons.fr/*
 *://*.bulletindescommunes.net/*
 *://*.buzzday.fr/*
@@ -70,7 +72,9 @@ domains_count: 193
 *://*.ecoledejulie.fr/*
 *://*.economiematin.fr/*
 *://*.econostrum.info/*
+*://*.editions-organisation.com/*
 *://*.elguacamoletaqueria.fr/*
+*://*.eln-voces.com/*
 *://*.embarcadere-bordeaux.fr/*
 *://*.europarl.fr/*
 *://*.fabrique-ours-peluche.com/*
@@ -79,6 +83,7 @@ domains_count: 193
 *://*.ferme-fournet.fr/*
 *://*.finance-mag.com/*
 *://*.focusur.fr/*
+*://*.fr.lets-rebuild.com/*
 *://*.francaismeme.com/*
 *://*.france-initiative.fr/*
 *://*.franceflash.fr/*
@@ -136,6 +141,7 @@ domains_count: 193
 *://*.magazine-seniors.com/*
 *://*.maison-travaux.fr/*
 *://*.mall-center.shopping/*
+*://*.mangamag.fr/*
 *://*.mariefrance.fr/*
 *://*.marmott.fr/*
 *://*.mediadi.fr/*
@@ -143,6 +149,7 @@ domains_count: 193
 *://*.minoritaires.com/*
 *://*.misseve.fr/*
 *://*.mnei.fr/*
+*://*.moncontainer.com/*
 *://*.monguidesenior.fr/*
 *://*.my-jugaad.eu/*
 *://*.myjournal.fr/*
@@ -164,6 +171,7 @@ domains_count: 193
 *://*.partitionchoeur.fr/*
 *://*.peaches.fr/*
 *://*.pension-reversion.fr/*
+*://*.petitlien.fr/*
 *://*.philias.org/*
 *://*.pleinevie.fr/*
 *://*.potet-menuiserie.fr/*
@@ -173,31 +181,40 @@ domains_count: 193
 *://*.psychostrategy.net/*
 *://*.qapa.fr/*
 *://*.rdvprefecture.com/*
+*://*.regivia.com/*
 *://*.reussir-sa-boite.fr/*
 *://*.revue-longcours.fr/*
 *://*.rive-gauche-decor.fr/*
 *://*.sain-et-naturel.ouest-france.fr/*
+*://*.sante-beaute-forme.com/*
 *://*.sciencepost.fr/*
 *://*.scolinfo.net/*
 *://*.seniors-magazine.net/*
 *://*.seniors-voyages.com/*
+*://*.service-gratuit-fr.com/*
+*://*.services-b2b.fr/*
 *://*.sitespe.fr/*
 *://*.sixactualites.fr/*
 *://*.sobusygirls.fr/*
 *://*.soonnight.com/*
 *://*.splendia.com/*
+*://*.sportifvegetarien.com/*
 *://*.superstarsblog.fr/*
 *://*.surlmag.fr/*
+*://*.sursly.com/*
 *://*.tekpolis.fr/*
 *://*.thenicematin.fr/*
+*://*.theorie.aunaturelbites.com/*
 *://*.tirsportifchabris.fr/*
 *://*.todayfrance.fr/*
 *://*.ttu.fr/*
+*://*.tuxboard.com/*
 *://*.umvie.com/*
 *://*.uniclima.org/*
 *://*.unjour-particulier.fr/*
 *://*.varactu.fr/*
 *://*.viralmag.fr/*
 *://*.vonews.fr/*
+*://*.votre-assurance.fr/*
 *://*.votre-carte-grise.fr/*
 *://*.weelim.fr/*

@@ -1084,3 +1084,6 @@ urban-fusions.fr
 minutenews.fr
 notizie.buzz
 1001infos.net
+fr.mac-os.org
+lifebelief24.com
+mac-os.org

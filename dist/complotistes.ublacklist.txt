@@ -4,10 +4,11 @@ description: "Domains repeatedly sharing conspiracy/fake news content (manually 
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-02-25T11:33:45Z
-domains_count: 80
+generated_at: 2026-02-27T10:10:45Z
+domains_count: 84
 ---
 
+*://*.aavicteam.com/*
 *://*.agoratv.ch/*
 *://*.alterinfo.net/*
 *://*.apar.tv/*
@@ -21,6 +22,7 @@ domains_count: 80
 *://*.conseilnational.tv/*
 *://*.covidinfos.org/*
 *://*.cultpop.fr/*
+*://*.depeches-citoyennes.com/*
 *://*.directe-sante.com/*
 *://*.divulgation.fr/*
 *://*.editionsethos.com/*
@@ -35,6 +37,7 @@ domains_count: 80
 *://*.francesoir.fr/*
 *://*.geopolintel.fr/*
 *://*.geopolitique-profonde.com/*
+*://*.grelive.fr/*
 *://*.guyboulianne.com/*
 *://*.idrissaberkane.org/*
 *://*.imagyna.fr/*
@@ -85,6 +88,7 @@ domains_count: 80
 *://*.thenicematin.fr/*
 *://*.tvlibertes.com/*
 *://*.umvie.com/*
+*://*.viac19.fr/*
 *://*.viedo-klis.lv/*
 *://*.voltairenet.org/*
 *://*.wikistrike.com/*

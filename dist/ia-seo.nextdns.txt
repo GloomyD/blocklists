@@ -347,6 +347,7 @@ fplusd.org
 fr.dataconomy.com
 fr.lesptitesaffairesdemayl.be
 fr.lets-rebuild.com
+fr.mac-os.org
 fr.myeurop.info
 fr.techtribune.net
 francaismeme.com
@@ -591,6 +592,7 @@ liberationdelacroissance.fr
 liberennes.fr
 libestrasbourg.fr
 libremedia.ca
+lifebelief24.com
 lindecapant.fr
 linfoauquotidien.com
 linux-console.net
@@ -605,6 +607,7 @@ lycee-ndbn.fr
 lycee-saintlouis.fr
 lyonsecretdefense.com
 ma-demarche.fr
+mac-os.org
 macnifico.pt
 magazine-economie.fr
 magazine-racines.fr

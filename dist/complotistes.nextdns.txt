@@ -1,3 +1,4 @@
+aavicteam.com
 agoratv.ch
 alterinfo.net
 apar.tv
@@ -11,6 +12,7 @@ civitas-international.org
 conseilnational.tv
 covidinfos.org
 cultpop.fr
+depeches-citoyennes.com
 directe-sante.com
 divulgation.fr
 editionsethos.com
@@ -25,6 +27,7 @@ francaismeme.com
 francesoir.fr
 geopolintel.fr
 geopolitique-profonde.com
+grelive.fr
 guyboulianne.com
 idrissaberkane.org
 imagyna.fr
@@ -75,6 +78,7 @@ theepochtimes.com
 thenicematin.fr
 tvlibertes.com
 umvie.com
+viac19.fr
 viedo-klis.lv
 voltairenet.org
 wikistrike.com

@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-02-27T10:10:45Z
-domains_count: 1005
+generated_at: 2026-03-05T16:19:29Z
+domains_count: 1009
 ---
 
 *://*.1000nouvelles.com/*
@@ -355,6 +355,7 @@ domains_count: 1005
 *://*.fouschantants.com/*
 *://*.fplusd.org/*
 *://*.fr.dataconomy.com/*
+*://*.fr.game-console.org/*
 *://*.fr.lesptitesaffairesdemayl.be/*
 *://*.fr.lets-rebuild.com/*
 *://*.fr.mac-os.org/*
@@ -382,6 +383,7 @@ domains_count: 1005
 *://*.gagadget.com/*
 *://*.gallinette.net/*
 *://*.gambin.co/*
+*://*.game-console.org/*
 *://*.gamer-news.fr/*
 *://*.gamereactor.fr/*
 *://*.gameworld.fr/*
@@ -552,6 +554,7 @@ domains_count: 1005
 *://*.legrisou.fr/*
 *://*.lejmed.fr/*
 *://*.lejourguinee.com/*
+*://*.lejournaldelafinance.com/*
 *://*.lejsd.com/*
 *://*.lemalpensant.fr/*
 *://*.lemarchedesseniors.com/*
@@ -870,6 +873,7 @@ domains_count: 1005
 *://*.secret-defense.org/*
 *://*.sefarad.org/*
 *://*.senior-tech.fr/*
+*://*.senioractu.com/*
 *://*.senioritage.fr/*
 *://*.seniors-magazine.net/*
 *://*.seniors-voyages.com/*

@@ -345,6 +345,7 @@ fouineteau.fr
 fouschantants.com
 fplusd.org
 fr.dataconomy.com
+fr.game-console.org
 fr.lesptitesaffairesdemayl.be
 fr.lets-rebuild.com
 fr.mac-os.org
@@ -372,6 +373,7 @@ futuremag.fr
 gagadget.com
 gallinette.net
 gambin.co
+game-console.org
 gamer-news.fr
 gamereactor.fr
 gameworld.fr
@@ -542,6 +544,7 @@ legit.ng
 legrisou.fr
 lejmed.fr
 lejourguinee.com
+lejournaldelafinance.com
 lejsd.com
 lemalpensant.fr
 lemarchedesseniors.com
@@ -860,6 +863,7 @@ scoplepave.org
 secret-defense.org
 sefarad.org
 senior-tech.fr
+senioractu.com
 senioritage.fr
 seniors-magazine.net
 seniors-voyages.com

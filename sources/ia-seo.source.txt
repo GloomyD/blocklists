@@ -1087,3 +1087,8 @@ notizie.buzz
 fr.mac-os.org
 lifebelief24.com
 mac-os.org
+fr.game-console.org
+game-console.org
+pleinevie.fr
+senioractu.com
+lejournaldelafinance.com

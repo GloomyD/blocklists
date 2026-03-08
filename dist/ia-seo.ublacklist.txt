@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-03-05T16:19:29Z
-domains_count: 1009
+generated_at: 2026-03-08T13:56:28Z
+domains_count: 1019
 ---
 
 *://*.1000nouvelles.com/*
@@ -50,6 +50,7 @@ domains_count: 1009
 *://*.actubretagne.fr/*
 *://*.actucrypto.info/*
 *://*.actudz.com/*
+*://*.actupratique.com/*
 *://*.actus-banque.fr/*
 *://*.actusante.net/*
 *://*.adcf.org/*
@@ -89,11 +90,13 @@ domains_count: 1009
 *://*.apilorraine.fr/*
 *://*.apopsix.fr/*
 *://*.appel-aura-ecologie.fr/*
+*://*.appliances-expert.com/*
 *://*.appsystem.fr/*
 *://*.apres-lecole.fr/*
 *://*.aqi.fr/*
 *://*.aquaplus-info.com/*
 *://*.aquitaineonline.com/*
+*://*.arbweb.info/*
 *://*.arcadi.fr/*
 *://*.archicontemporaine.org/*
 *://*.argentauquotidien.com/*
@@ -111,6 +114,7 @@ domains_count: 1009
 *://*.astucejeuxps4.com/*
 *://*.astuces-aide-informatique.info/*
 *://*.astucesdegrandmere.net/*
+*://*.astucesdiy.com/*
 *://*.astucespratiques.org/*
 *://*.atlantic2.org/*
 *://*.atout-geek.com/*
@@ -279,6 +283,7 @@ domains_count: 1009
 *://*.directmag.com/*
 *://*.divertissonsnous.com/*
 *://*.dixquatre.com/*
+*://*.diy.empowermemagazine.com/*
 *://*.dmoz.fr/*
 *://*.dnalgerie.com/*
 *://*.dotapea.com/*
@@ -622,6 +627,7 @@ domains_count: 1009
 *://*.ma-demarche.fr/*
 *://*.mac-os.org/*
 *://*.macnifico.pt/*
+*://*.magazine-du-net.com/*
 *://*.magazine-economie.fr/*
 *://*.magazine-racines.fr/*
 *://*.magazine-seniors.com/*
@@ -630,6 +636,7 @@ domains_count: 1009
 *://*.maison-plus.tv/*
 *://*.maison-travaux.fr/*
 *://*.maison.20minutes.fr/*
+*://*.maison.empowermemagazine.com/*
 *://*.mall-center.shopping/*
 *://*.mangamag.fr/*
 *://*.mapetiterando.fr/*
@@ -732,6 +739,7 @@ domains_count: 1009
 *://*.observatoiredeleurope.com/*
 *://*.observatoiredemocratie.fr/*
 *://*.oceanium.org/*
+*://*.ohmyfood.fr/*
 *://*.okamag.fr/*
 *://*.okazium.fr/*
 *://*.olmeto.net/*
@@ -800,6 +808,7 @@ domains_count: 1009
 *://*.pourquoimabanque.fr/*
 *://*.powerpress.fr/*
 *://*.pratiks.com/*
+*://*.pratiquesinfos.com/*
 *://*.premiere-reponse.com/*
 *://*.press-select.fr/*
 *://*.pressefrance.fr/*
@@ -870,6 +879,7 @@ domains_count: 1009
 *://*.sciences-et-democratie.net/*
 *://*.scolinfo.net/*
 *://*.scoplepave.org/*
+*://*.secoursinfo.fr/*
 *://*.secret-defense.org/*
 *://*.sefarad.org/*
 *://*.senior-tech.fr/*

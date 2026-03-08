@@ -40,6 +40,7 @@ actuanews.fr
 actubretagne.fr
 actucrypto.info
 actudz.com
+actupratique.com
 actus-banque.fr
 actusante.net
 adcf.org
@@ -79,11 +80,13 @@ annee-polaire.fr
 apilorraine.fr
 apopsix.fr
 appel-aura-ecologie.fr
+appliances-expert.com
 appsystem.fr
 apres-lecole.fr
 aqi.fr
 aquaplus-info.com
 aquitaineonline.com
+arbweb.info
 arcadi.fr
 archicontemporaine.org
 argentauquotidien.com
@@ -101,6 +104,7 @@ associationeconomienumerique.fr
 astucejeuxps4.com
 astuces-aide-informatique.info
 astucesdegrandmere.net
+astucesdiy.com
 astucespratiques.org
 atlantic2.org
 atout-geek.com
@@ -269,6 +273,7 @@ diplomes.net
 directmag.com
 divertissonsnous.com
 dixquatre.com
+diy.empowermemagazine.com
 dmoz.fr
 dnalgerie.com
 dotapea.com
@@ -612,6 +617,7 @@ lyonsecretdefense.com
 ma-demarche.fr
 mac-os.org
 macnifico.pt
+magazine-du-net.com
 magazine-economie.fr
 magazine-racines.fr
 magazine-seniors.com
@@ -620,6 +626,7 @@ magmaweb.fr
 maison-plus.tv
 maison-travaux.fr
 maison.20minutes.fr
+maison.empowermemagazine.com
 mall-center.shopping
 mangamag.fr
 mapetiterando.fr
@@ -722,6 +729,7 @@ observalgerie.com
 observatoiredeleurope.com
 observatoiredemocratie.fr
 oceanium.org
+ohmyfood.fr
 okamag.fr
 okazium.fr
 olmeto.net
@@ -790,6 +798,7 @@ potet-menuiserie.fr
 pourquoimabanque.fr
 powerpress.fr
 pratiks.com
+pratiquesinfos.com
 premiere-reponse.com
 press-select.fr
 pressefrance.fr
@@ -860,6 +869,7 @@ sciencepost.fr
 sciences-et-democratie.net
 scolinfo.net
 scoplepave.org
+secoursinfo.fr
 secret-defense.org
 sefarad.org
 senior-tech.fr

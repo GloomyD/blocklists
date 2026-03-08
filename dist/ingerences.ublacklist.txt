@@ -4,8 +4,8 @@ description: "Domains linked to foreign interference operations (source: Viginum
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-03-05T16:19:29Z
-domains_count: 4206
+generated_at: 2026-03-08T13:56:28Z
+domains_count: 4205
 ---
 
 *://*.000webhostapp.com/*
@@ -1711,7 +1711,6 @@ domains_count: 4206
 *://*.insightth.com/*
 *://*.insources.ru/*
 *://*.inspectnews.com/*
-*://*.instagram.com/*
 *://*.instantactus.fr/*
 *://*.intellasia.net/*
 *://*.intelligenceinfo.in/*

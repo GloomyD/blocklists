@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-03-08T13:56:28Z
-domains_count: 1019
+generated_at: 2026-03-10T00:16:31Z
+domains_count: 1020
 ---
 
 *://*.1000nouvelles.com/*
@@ -623,6 +623,7 @@ domains_count: 1019
 *://*.luxurytrends.fr/*
 *://*.lycee-ndbn.fr/*
 *://*.lycee-saintlouis.fr/*
+*://*.lyceedesmetiersparentis.fr/*
 *://*.lyonsecretdefense.com/*
 *://*.ma-demarche.fr/*
 *://*.mac-os.org/*

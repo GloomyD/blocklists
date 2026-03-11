@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-03-10T00:16:31Z
-domains_count: 1020
+generated_at: 2026-03-11T18:34:45Z
+domains_count: 1044
 ---
 
 *://*.1000nouvelles.com/*
@@ -87,6 +87,7 @@ domains_count: 1020
 *://*.animalandco.fr/*
 *://*.animation-robot.com/*
 *://*.annee-polaire.fr/*
+*://*.annuaire-horaire.fr/*
 *://*.apilorraine.fr/*
 *://*.apopsix.fr/*
 *://*.appel-aura-ecologie.fr/*
@@ -164,6 +165,7 @@ domains_count: 1020
 *://*.breizh-info.com/*
 *://*.bretagne-bretons.fr/*
 *://*.brevesdecouloir.fr/*
+*://*.bricole-facilement.fr/*
 *://*.bricomag-media.com/*
 *://*.brtv.fr/*
 *://*.bulletindescommunes.net/*
@@ -171,6 +173,7 @@ domains_count: 1020
 *://*.buzzday.fr/*
 *://*.buzzly.fr/*
 *://*.buzzwebzine.fr/*
+*://*.caaa.fr/*
 *://*.cabinet-recrutement.org/*
 *://*.cabinetcatteau.fr/*
 *://*.cadres-dirigeants.fr/*
@@ -309,10 +312,12 @@ domains_count: 1020
 *://*.edusismo.org/*
 *://*.eldoradio.fr/*
 *://*.elguacamoletaqueria.fr/*
+*://*.elimit.eu/*
 *://*.ellecitoyenne.com/*
 *://*.eln-voces.com/*
 *://*.embarcadere-bordeaux.fr/*
 *://*.emerydolige.fr/*
+*://*.en-direct-de-la-maison.com/*
 *://*.encd.fr/*
 *://*.enfance-libertes.fr/*
 *://*.enquete-debat.fr/*
@@ -335,6 +340,7 @@ domains_count: 1020
 *://*.fabrique-ours-peluche.com/*
 *://*.faire.fr/*
 *://*.famille-econome.com/*
+*://*.fannysoulier.com/*
 *://*.fantastique-arts.com/*
 *://*.fautquonenparle.fr/*
 *://*.favrat-ossature-bois.fr/*
@@ -379,12 +385,14 @@ domains_count: 1020
 *://*.freelanceinfos.fr/*
 *://*.freenews.fr/*
 *://*.freesport.fr/*
+*://*.frenchgarden.fr/*
 *://*.frenchhub.fr/*
 *://*.frenchtimes.fr/*
 *://*.friendly-fire.fr/*
 *://*.fun-academy.fr/*
 *://*.furialiga.fr/*
 *://*.futuremag.fr/*
+*://*.fuveau.fr/*
 *://*.gagadget.com/*
 *://*.gallinette.net/*
 *://*.gambin.co/*
@@ -436,6 +444,7 @@ domains_count: 1020
 *://*.homemedia.fr/*
 *://*.homeophyto.topsante.com/*
 *://*.hotelvalleebleue.fr/*
+*://*.ideosi.fr/*
 *://*.iedu.fr/*
 *://*.ilemaurice-tourisme.info/*
 *://*.ilestencoretemps.fr/*
@@ -455,6 +464,7 @@ domains_count: 1020
 *://*.innastudio.com/*
 *://*.innovations.fr/*
 *://*.insajderi.org/*
+*://*.inspiration-decoration.fr/*
 *://*.inspirefrance.fr/*
 *://*.intelligence-artificielle.com/*
 *://*.intelligence-rh.com/*
@@ -496,6 +506,7 @@ domains_count: 1020
 *://*.ksabz.net/*
 *://*.ksma.fr/*
 *://*.kumundra.com/*
+*://*.l-attrape-soleil.fr/*
 *://*.l-echo-des-seniors.fr/*
 *://*.l.modesettravaux.fr/*
 *://*.la-maie-dantan.fr/*
@@ -561,8 +572,10 @@ domains_count: 1020
 *://*.lejourguinee.com/*
 *://*.lejournaldelafinance.com/*
 *://*.lejsd.com/*
+*://*.lekitduplombier.fr/*
 *://*.lemalpensant.fr/*
 *://*.lemarchedesseniors.com/*
+*://*.lemarchevert.fr/*
 *://*.lemediapresse.fr/*
 *://*.lemediateaseur.fr/*
 *://*.lemiroirdunord.fr/*
@@ -581,6 +594,7 @@ domains_count: 1020
 *://*.leretourdesdixcommandements.fr/*
 *://*.les-actus-du-cyclisme.com/*
 *://*.les-bonnes-pates.fr/*
+*://*.les-docus.com/*
 *://*.les-ernest.fr/*
 *://*.les-ovnis.com/*
 *://*.les-rdd.fr/*
@@ -589,6 +603,7 @@ domains_count: 1020
 *://*.lesactualites.news/*
 *://*.lesafriques.com/*
 *://*.lesarkophage.com/*
+*://*.lesclausous.fr/*
 *://*.lescours.org/*
 *://*.lescreateursdepossibles.com/*
 *://*.lescrieursduweb.com/*
@@ -616,6 +631,7 @@ domains_count: 1020
 *://*.linux-console.net/*
 *://*.lisagermano.com/*
 *://*.livehost.fr/*
+*://*.loftandco.fr/*
 *://*.loge.fr/*
 *://*.logprotect.fr/*
 *://*.looknbe.com/*
@@ -638,6 +654,7 @@ domains_count: 1020
 *://*.maison-travaux.fr/*
 *://*.maison.20minutes.fr/*
 *://*.maison.empowermemagazine.com/*
+*://*.maisonmodernetendance.com/*
 *://*.mall-center.shopping/*
 *://*.mangamag.fr/*
 *://*.mapetiterando.fr/*
@@ -688,6 +705,7 @@ domains_count: 1020
 *://*.mouvement-metropole.fr/*
 *://*.mouvement-up.fr/*
 *://*.moyens.net/*
+*://*.mrboo.fr/*
 *://*.murmures.info/*
 *://*.musiqueurbaine.fr/*
 *://*.my-angers.info/*
@@ -723,6 +741,7 @@ domains_count: 1020
 *://*.nostrodomus.fr/*
 *://*.notizie.buzz/*
 *://*.notredamedelagarde.fr/*
+*://*.nouveau-site.com/*
 *://*.nouvellefr.com/*
 *://*.nouvelles-carrieres.fr/*
 *://*.nouvelles-du-monde.com/*
@@ -806,6 +825,7 @@ domains_count: 1020
 *://*.positifforum.com/*
 *://*.positivr.fr/*
 *://*.potet-menuiserie.fr/*
+*://*.pourquoicela.com/*
 *://*.pourquoimabanque.fr/*
 *://*.powerpress.fr/*
 *://*.pratiks.com/*
@@ -864,6 +884,7 @@ domains_count: 1020
 *://*.revue-longcours.fr/*
 *://*.rive-gauche-decor.fr/*
 *://*.robion.fr/*
+*://*.romansurcanape.fr/*
 *://*.roserouge.org/*
 *://*.rouleur-electrique.fr/*
 *://*.rse-magazine.com/*
@@ -966,6 +987,7 @@ domains_count: 1020
 *://*.toussus.net/*
 *://*.toutenparfum.com/*
 *://*.toutjardindirect.fr/*
+*://*.travelando.fr/*
 *://*.trendly.fr/*
 *://*.triboland.com/*
 *://*.troyes-obs.fr/*
@@ -984,6 +1006,7 @@ domains_count: 1020
 *://*.unpointculture.com/*
 *://*.up-tex.fr/*
 *://*.upc.fr/*
+*://*.upme.fr/*
 *://*.urban-fusions.fr/*
 *://*.usine-tesla.com/*
 *://*.valdyerres.com/*
@@ -992,6 +1015,7 @@ domains_count: 1020
 *://*.vendeeinfo.fr/*
 *://*.vie-to-b.fr/*
 *://*.vieassociative.be/*
+*://*.ville-data.com/*
 *://*.ville-de-cuers.com/*
 *://*.ville-nevez.com/*
 *://*.ville-saintemarie.fr/*

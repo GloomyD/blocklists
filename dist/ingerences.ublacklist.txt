@@ -4,8 +4,8 @@ description: "Domains linked to foreign interference operations (source: Viginum
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-03-16T11:14:35Z
-domains_count: 4205
+generated_at: 2026-03-16T11:15:05Z
+domains_count: 4204
 ---
 
 *://*.000webhostapp.com/*
@@ -3038,7 +3038,6 @@ domains_count: 4205
 *://*.recentdiscovery.com/*
 *://*.recorder.ca/*
 *://*.red-blue-tribune.com/*
-*://*.reddit.com/*
 *://*.redo1776.com/*
 *://*.redpres.com/*
 *://*.redshiftdaily.com/*

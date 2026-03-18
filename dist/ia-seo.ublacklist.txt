@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-03-16T11:15:05Z
-domains_count: 1054
+generated_at: 2026-03-18T11:19:53Z
+domains_count: 1056
 ---
 
 *://*.1000nouvelles.com/*
@@ -352,6 +352,7 @@ domains_count: 1054
 *://*.favrat-ossature-bois.fr/*
 *://*.fcnantais.com/*
 *://*.fcnhisto.fr/*
+*://*.feji.io/*
 *://*.fellag.fr/*
 *://*.femmes-references.com/*
 *://*.femmesmonde.org/*
@@ -643,6 +644,7 @@ domains_count: 1054
 *://*.logprotect.fr/*
 *://*.looknbe.com/*
 *://*.lourdes-actu.fr/*
+*://*.luxuryroyal.feji.io/*
 *://*.luxurytrends.fr/*
 *://*.lycee-ndbn.fr/*
 *://*.lycee-saintlouis.fr/*

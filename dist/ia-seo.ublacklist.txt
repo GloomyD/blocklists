@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-03-18T11:19:53Z
-domains_count: 1056
+generated_at: 2026-03-18T15:09:53Z
+domains_count: 1057
 ---
 
 *://*.1000nouvelles.com/*
@@ -1011,6 +1011,7 @@ domains_count: 1056
 *://*.tvtweet.fr/*
 *://*.umvie.com/*
 *://*.unbconnect.com/*
+*://*.une-case-en-plus.com/*
 *://*.uniclima.org/*
 *://*.univ-numerique.fr/*
 *://*.unjour-particulier.fr/*

@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-03-19T07:31:24Z
-domains_count: 1059
+generated_at: 2026-03-19T07:37:46Z
+domains_count: 1068
 ---
 
 *://*.1000nouvelles.com/*
@@ -115,6 +115,7 @@ domains_count: 1059
 *://*.associationeconomienumerique.fr/*
 *://*.astucejeuxps4.com/*
 *://*.astuces-aide-informatique.info/*
+*://*.astucesaufeminin.com/*
 *://*.astucesdegrandmere.net/*
 *://*.astucesdiy.com/*
 *://*.astucespratiques.org/*
@@ -163,6 +164,7 @@ domains_count: 1059
 *://*.boulonnais.fr/*
 *://*.bourseinside.fr/*
 *://*.boutiquesenligne.fr/*
+*://*.brasserie-victor.fr/*
 *://*.brasseriemoliteuil.fr/*
 *://*.breakingnews.fr/*
 *://*.breizh-info.com/*
@@ -212,6 +214,7 @@ domains_count: 1059
 *://*.check-food.fr/*
 *://*.checkfood.fr/*
 *://*.cherifaistesvalises.com/*
+*://*.chez-tante-edith.com/*
 *://*.chimenebadi.fr/*
 *://*.chocolatcannelle.fr/*
 *://*.chorus-chanson.fr/*
@@ -271,6 +274,7 @@ domains_count: 1059
 *://*.decogeek.fr/*
 *://*.decontair-67.fr/*
 *://*.decripto.org/*
+*://*.delablousealatoque.fr/*
 *://*.delicesdinities.fr/*
 *://*.delitsdopinion.com/*
 *://*.deltionchae.org/*
@@ -301,6 +305,7 @@ domains_count: 1059
 *://*.duteurtre.com/*
 *://*.dynamique-mag.com/*
 *://*.e-briancon.com/*
+*://*.e-gastronomie.com/*
 *://*.eau-vive.org/*
 *://*.echo-nature.com/*
 *://*.eco-action.org/*
@@ -308,6 +313,7 @@ domains_count: 1059
 *://*.economie-news.com/*
 *://*.economiematin.fr/*
 *://*.econostrum.info/*
+*://*.editions-mango.com/*
 *://*.editions-melibee.com/*
 *://*.editions-organisation.com/*
 *://*.edpubs.org/*
@@ -358,6 +364,7 @@ domains_count: 1059
 *://*.femmesmonde.org/*
 *://*.ferme-fournet.fr/*
 *://*.ffcalculmental.fr/*
+*://*.ffcuisine.fr/*
 *://*.fightsport.fr/*
 *://*.finactu.fr/*
 *://*.finance-mag.com/*
@@ -457,6 +464,7 @@ domains_count: 1059
 *://*.iedu.fr/*
 *://*.ilemaurice-tourisme.info/*
 *://*.ilestencoretemps.fr/*
+*://*.ilgustoitaliano.fr/*
 *://*.illicit-trade.com/*
 *://*.ilv-edition.com/*
 *://*.imagesdelorraine.org/*
@@ -1059,6 +1067,7 @@ domains_count: 1059
 *://*.wkpharma.fr/*
 *://*.xvovalie.com/*
 *://*.yatedo.fr/*
+*://*.youcancookit.fr/*
 *://*.yourmagazine.fr/*
 *://*.yourtopia.fr/*
 *://*.zamante.com/*

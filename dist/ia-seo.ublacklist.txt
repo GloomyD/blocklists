@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-03-19T07:37:46Z
-domains_count: 1068
+generated_at: 2026-04-01T00:05:48Z
+domains_count: 1071
 ---
 
 *://*.1000nouvelles.com/*
@@ -805,6 +805,7 @@ domains_count: 1068
 *://*.paradisedeco.fr/*
 *://*.paritarisme-emploi-formation.fr/*
 *://*.parlersante.fr/*
+*://*.paroledemamans.com/*
 *://*.parolesdefemmes.org/*
 *://*.parti-du-plaisir.com/*
 *://*.partitionchoeur.fr/*
@@ -954,6 +955,7 @@ domains_count: 1068
 *://*.soleilrouge.org/*
 *://*.soonnight.com/*
 *://*.sortie-cine.fr/*
+*://*.speedylife.fr/*
 *://*.splendia.com/*
 *://*.sport-equipements.fr/*
 *://*.sport-news.fr/*
@@ -1024,6 +1026,7 @@ domains_count: 1068
 *://*.une-case-en-plus.com/*
 *://*.uniclima.org/*
 *://*.univ-numerique.fr/*
+*://*.universitepopulaire.eu/*
 *://*.unjour-particulier.fr/*
 *://*.unmec.fr/*
 *://*.unpointculture.com/*

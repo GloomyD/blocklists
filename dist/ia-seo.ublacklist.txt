@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-04-01T00:05:48Z
-domains_count: 1071
+generated_at: 2026-04-01T00:11:46Z
+domains_count: 1072
 ---
 
 *://*.1000nouvelles.com/*
@@ -669,6 +669,7 @@ domains_count: 1071
 *://*.magazine-seniors.com/*
 *://*.maghrebemergent.com/*
 *://*.magmaweb.fr/*
+*://*.mairie72.fr/*
 *://*.maison-plus.tv/*
 *://*.maison-travaux.fr/*
 *://*.maison.20minutes.fr/*

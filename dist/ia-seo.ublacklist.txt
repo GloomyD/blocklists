@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-04-01T00:11:46Z
-domains_count: 1072
+generated_at: 2026-04-03T07:51:22Z
+domains_count: 1075
 ---
 
 *://*.1000nouvelles.com/*
@@ -432,6 +432,7 @@ domains_count: 1072
 *://*.globebooks.com/*
 *://*.gnew.fr/*
 *://*.golem13.fr/*
+*://*.gonemagazine.fr/*
 *://*.gorillaz.fr/*
 *://*.gpmetropole.fr/*
 *://*.gr10.fr/*
@@ -599,6 +600,7 @@ domains_count: 1072
 *://*.lemondedelaphoto.com/*
 *://*.lemoneymag.fr/*
 *://*.lemouvementassociatif-centre.org/*
+*://*.lenergeek.com/*
 *://*.lenergieenquestions.fr/*
 *://*.lenouveaureveil.com/*
 *://*.lepaindescopains.fr/*
@@ -903,6 +905,7 @@ domains_count: 1072
 *://*.restaurants-de-france.fr/*
 *://*.reussir-sa-boite.fr/*
 *://*.revemexicain.com/*
+*://*.revolution-energetique.com/*
 *://*.revue-kephas.org/*
 *://*.revue-longcours.fr/*
 *://*.rive-gauche-decor.fr/*

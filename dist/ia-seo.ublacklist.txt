@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-04-10T19:53:12Z
-domains_count: 1078
+generated_at: 2026-04-10T20:34:22Z
+domains_count: 1079
 ---
 
 *://*.1000nouvelles.com/*
@@ -601,6 +601,7 @@ domains_count: 1078
 *://*.lemiroirdunord.fr/*
 *://*.lemondedelaphoto.com/*
 *://*.lemondenews.com/*
+*://*.lemondenews.net/*
 *://*.lemoneymag.fr/*
 *://*.lemouvementassociatif-centre.org/*
 *://*.lenergeek.com/*

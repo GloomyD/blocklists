@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-04-10T20:34:22Z
-domains_count: 1079
+generated_at: 2026-04-10T22:32:47Z
+domains_count: 1085
 ---
 
 *://*.1000nouvelles.com/*
@@ -40,6 +40,7 @@ domains_count: 1079
 *://*.actu-rando.fr/*
 *://*.actu-retail.fr/*
 *://*.actuafoot.fr/*
+*://*.actual-immo.fr/*
 *://*.actualite-fr.com/*
 *://*.actualite-news.com/*
 *://*.actualite-voitures.fr/*
@@ -395,6 +396,7 @@ domains_count: 1079
 *://*.franceapprentissage.fr/*
 *://*.francedaily.news/*
 *://*.franceflash.fr/*
+*://*.francematin.info/*
 *://*.franchementbien.fr/*
 *://*.franciscopolis.com/*
 *://*.frapna.org/*
@@ -599,6 +601,8 @@ domains_count: 1079
 *://*.lemediapresse.fr/*
 *://*.lemediateaseur.fr/*
 *://*.lemiroirdunord.fr/*
+*://*.lemonde.financial/*
+*://*.lemonde.money/*
 *://*.lemondedelaphoto.com/*
 *://*.lemondenews.com/*
 *://*.lemondenews.net/*
@@ -744,6 +748,7 @@ domains_count: 1079
 *://*.najactribune.com/*
 *://*.nationspresse.info/*
 *://*.nectardunet.com/*
+*://*.neozone.org/*
 *://*.net-actuality.org/*
 *://*.netcost-security.fr/*
 *://*.netpublic.fr/*
@@ -816,6 +821,7 @@ domains_count: 1079
 *://*.parolesdefemmes.org/*
 *://*.parti-du-plaisir.com/*
 *://*.partitionchoeur.fr/*
+*://*.passion-maisons.fr/*
 *://*.passion-net.fr/*
 *://*.pauinfo.fr/*
 *://*.pause-maison.ouest-france.fr/*

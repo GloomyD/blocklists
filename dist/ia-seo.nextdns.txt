@@ -30,6 +30,7 @@ actu-pme.ch
 actu-rando.fr
 actu-retail.fr
 actuafoot.fr
+actual-immo.fr
 actualite-fr.com
 actualite-news.com
 actualite-voitures.fr
@@ -385,6 +386,7 @@ france-initiative.fr
 franceapprentissage.fr
 francedaily.news
 franceflash.fr
+francematin.info
 franchementbien.fr
 franciscopolis.com
 frapna.org
@@ -589,6 +591,8 @@ lemarchevert.fr
 lemediapresse.fr
 lemediateaseur.fr
 lemiroirdunord.fr
+lemonde.financial
+lemonde.money
 lemondedelaphoto.com
 lemondenews.com
 lemondenews.net
@@ -734,6 +738,7 @@ nadoz.org
 najactribune.com
 nationspresse.info
 nectardunet.com
+neozone.org
 net-actuality.org
 netcost-security.fr
 netpublic.fr
@@ -806,6 +811,7 @@ paroledemamans.com
 parolesdefemmes.org
 parti-du-plaisir.com
 partitionchoeur.fr
+passion-maisons.fr
 passion-net.fr
 pauinfo.fr
 pause-maison.ouest-france.fr

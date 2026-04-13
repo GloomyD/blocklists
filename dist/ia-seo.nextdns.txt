@@ -996,6 +996,7 @@ terminales.fr
 terre-de-luxe.fr
 terre.tv
 teveo.fr
+thecharliegardfoundation.org
 theharbinger.org
 theinquirer.fr
 thenicematin.fr
@@ -1043,6 +1044,7 @@ valdyerres.com
 varactu.fr
 vegmag.fr
 vendeeinfo.fr
+videogamer.com
 vie-to-b.fr
 vieassociative.be
 ville-data.com

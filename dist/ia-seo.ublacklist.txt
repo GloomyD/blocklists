@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-04-10T22:32:47Z
-domains_count: 1085
+generated_at: 2026-04-13T23:12:53Z
+domains_count: 1087
 ---
 
 *://*.1000nouvelles.com/*
@@ -1006,6 +1006,7 @@ domains_count: 1085
 *://*.terre-de-luxe.fr/*
 *://*.terre.tv/*
 *://*.teveo.fr/*
+*://*.thecharliegardfoundation.org/*
 *://*.theharbinger.org/*
 *://*.theinquirer.fr/*
 *://*.thenicematin.fr/*
@@ -1053,6 +1054,7 @@ domains_count: 1085
 *://*.varactu.fr/*
 *://*.vegmag.fr/*
 *://*.vendeeinfo.fr/*
+*://*.videogamer.com/*
 *://*.vie-to-b.fr/*
 *://*.vieassociative.be/*
 *://*.ville-data.com/*

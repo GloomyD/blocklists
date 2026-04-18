@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-04-18T08:50:22Z
-domains_count: 1091
+generated_at: 2026-04-18T11:55:56Z
+domains_count: 1100
 ---
 
 *://*.1000nouvelles.com/*
@@ -65,6 +65,7 @@ domains_count: 1091
 *://*.afriquinfos.com/*
 *://*.agencecamerounpresse.com/*
 *://*.agrapresse.fr/*
+*://*.agriculture-technology.com/*
 *://*.agrisur.fr/*
 *://*.aidoforum.com/*
 *://*.aiexotic.com/*
@@ -86,6 +87,7 @@ domains_count: 1091
 *://*.ancclic.fr/*
 *://*.androidetvous.com/*
 *://*.angersmag.info/*
+*://*.angiesweethome.com/*
 *://*.animalandco.fr/*
 *://*.animation-robot.com/*
 *://*.annee-polaire.fr/*
@@ -149,6 +151,7 @@ domains_count: 1091
 *://*.beninactu.com/*
 *://*.benmazue.com/*
 *://*.betanews.fr/*
+*://*.bhmagazine.fr/*
 *://*.bien-dans-sa-peau.fr/*
 *://*.bienmanger-vivremieux.fr/*
 *://*.bigouden.tv/*
@@ -422,6 +425,7 @@ domains_count: 1091
 *://*.gameworld.fr/*
 *://*.garancedore.fr/*
 *://*.garconne-magazine.fr/*
+*://*.gasy.net/*
 *://*.geekopolis.fr/*
 *://*.geekplay.fr/*
 *://*.geeksource.fr/*
@@ -465,6 +469,7 @@ domains_count: 1091
 *://*.homemedia.fr/*
 *://*.homeophyto.topsante.com/*
 *://*.hotelvalleebleue.fr/*
+*://*.ibereco.net/*
 *://*.ideosi.fr/*
 *://*.iedu.fr/*
 *://*.ilemaurice-tourisme.info/*
@@ -555,6 +560,7 @@ domains_count: 1091
 *://*.landesinfo.fr/*
 *://*.landesinfo.net/*
 *://*.lanimalier.fr/*
+*://*.lanouvelletribune.info/*
 *://*.lapauseinfo.fr/*
 *://*.lapetitenation.com/*
 *://*.laplasturgie.fr/*
@@ -567,6 +573,7 @@ domains_count: 1091
 *://*.lasemainedecastres.fr/*
 *://*.lasocietenouvelle.net/*
 *://*.lassurance-obseques.fr/*
+*://*.latabledejeanne.net/*
 *://*.lavoixdefrance.fr/*
 *://*.lbe.news/*
 *://*.le-blog-du-geek.net/*
@@ -797,6 +804,7 @@ domains_count: 1091
 *://*.okazium.fr/*
 *://*.olmeto.net/*
 *://*.omgpu.com/*
+*://*.omniz.net/*
 *://*.on-media.fr/*
 *://*.oncopaca.org/*
 *://*.onerc.org/*
@@ -817,6 +825,7 @@ domains_count: 1091
 *://*.pam-fitness.com/*
 *://*.panfu.fr/*
 *://*.paradisedeco.fr/*
+*://*.paragraphe.info/*
 *://*.paritarisme-emploi-formation.fr/*
 *://*.parlersante.fr/*
 *://*.paroledemamans.com/*

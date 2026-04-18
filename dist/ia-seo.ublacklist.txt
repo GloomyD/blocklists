@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-04-13T23:12:53Z
-domains_count: 1087
+generated_at: 2026-04-18T08:50:22Z
+domains_count: 1091
 ---
 
 *://*.1000nouvelles.com/*
@@ -280,6 +280,7 @@ domains_count: 1087
 *://*.delitsdopinion.com/*
 *://*.deltionchae.org/*
 *://*.demarchespasseports.fr/*
+*://*.dentalliance.fr/*
 *://*.dernieres-nouvelles.com/*
 *://*.deshydrateur.org/*
 *://*.designers-avenue.com/*
@@ -717,6 +718,7 @@ domains_count: 1087
 *://*.minoritaires.com/*
 *://*.minutenews.fr/*
 *://*.miroir-mag.fr/*
+*://*.miss-deco.fr/*
 *://*.misseve.fr/*
 *://*.mission-nationale.fr/*
 *://*.miui-france.org/*
@@ -1016,6 +1018,7 @@ domains_count: 1087
 *://*.thewarning.info/*
 *://*.thewebtape.net/*
 *://*.threeriversinstitute.org/*
+*://*.tic-et-net.org/*
 *://*.tirsportifchabris.fr/*
 *://*.todayfrance.fr/*
 *://*.top-metiers.fr/*
@@ -1040,6 +1043,7 @@ domains_count: 1087
 *://*.unbconnect.com/*
 *://*.une-case-en-plus.com/*
 *://*.uniclima.org/*
+*://*.univ-deco.fr/*
 *://*.univ-numerique.fr/*
 *://*.universitepopulaire.eu/*
 *://*.unjour-particulier.fr/*

@@ -4,7 +4,7 @@ description: "Domains repeatedly sharing conspiracy/fake news content (manually 
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-04-18T11:55:56Z
+generated_at: 2026-04-22T08:15:16Z
 domains_count: 84
 ---
 

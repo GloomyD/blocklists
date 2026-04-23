@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-04-23T06:37:56Z
-domains_count: 1232
+generated_at: 2026-04-23T06:39:04Z
+domains_count: 1233
 ---
 
 *://*.1000nouvelles.com/*
@@ -381,6 +381,7 @@ domains_count: 1232
 *://*.europe2tv.fr/*
 *://*.eurostaf.fr/*
 *://*.evenement.com/*
+*://*.evinux.org/*
 *://*.expertise-entreprise.com/*
 *://*.experts-tourisme.fr/*
 *://*.explore.st-aug.edu/*

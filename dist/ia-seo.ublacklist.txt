@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-04-23T06:39:04Z
-domains_count: 1233
+generated_at: 2026-04-23T06:43:29Z
+domains_count: 1238
 ---
 
 *://*.1000nouvelles.com/*
@@ -126,6 +126,7 @@ domains_count: 1233
 *://*.artistscelebrity.com/*
 *://*.as-ci.net/*
 *://*.asmfc.com/*
+*://*.aspekt.fr/*
 *://*.assisesdunumerique.fr/*
 *://*.associationeconomienumerique.fr/*
 *://*.astucejeuxps4.com/*
@@ -791,6 +792,7 @@ domains_count: 1233
 *://*.mediavenir.fr/*
 *://*.memosport.fr/*
 *://*.menlife.fr/*
+*://*.menow.fr/*
 *://*.menu-enfant.com/*
 *://*.menumobile.fr/*
 *://*.mes-petites-annonces.org/*
@@ -814,6 +816,7 @@ domains_count: 1233
 *://*.mnei.fr/*
 *://*.mobeez.fr/*
 *://*.mobilejunky.fr/*
+*://*.mobiles-infos.com/*
 *://*.mobilicites.com/*
 *://*.mobiwisy.fr/*
 *://*.mon-beau-mariage.fr/*
@@ -913,6 +916,7 @@ domains_count: 1233
 *://*.palmaresmagazine.com/*
 *://*.pam-fitness.com/*
 *://*.panfu.fr/*
+*://*.papa-backstage.fr/*
 *://*.paradisedeco.fr/*
 *://*.paragraphe.info/*
 *://*.parentsensemble.com/*
@@ -980,6 +984,7 @@ domains_count: 1233
 *://*.present.fr/*
 *://*.press-select.fr/*
 *://*.pressefrance.fr/*
+*://*.primo-accedant.fr/*
 *://*.printempsfrancais.fr/*
 *://*.prioriterre.org/*
 *://*.professeurcyclope.fr/*

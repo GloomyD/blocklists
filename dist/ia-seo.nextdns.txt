@@ -743,6 +743,7 @@ magazine-du-net.com
 magazine-economie.fr
 magazine-racines.fr
 magazine-seniors.com
+magazinepratique.fr
 maghrebemergent.com
 magmaweb.fr
 mairie72.fr
@@ -950,6 +951,7 @@ pole-immo.fr
 pole-innovation.fr
 politique-digitale.fr
 popcorngame.fr
+popotech.fr
 popvoyages.com
 portail-sante.be
 portices.fr
@@ -1014,6 +1016,7 @@ reportagesphotos.fr
 reseau-regain.net
 respectmag.com
 restaurants-de-france.fr
+resterconnecte.com
 reussir-sa-boite.fr
 revemexicain.com
 revolution-energetique.com

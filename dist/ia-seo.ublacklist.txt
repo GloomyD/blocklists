@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-04-23T06:30:38Z
-domains_count: 1229
+generated_at: 2026-04-23T06:37:56Z
+domains_count: 1232
 ---
 
 *://*.1000nouvelles.com/*
@@ -753,6 +753,7 @@ domains_count: 1229
 *://*.magazine-economie.fr/*
 *://*.magazine-racines.fr/*
 *://*.magazine-seniors.com/*
+*://*.magazinepratique.fr/*
 *://*.maghrebemergent.com/*
 *://*.magmaweb.fr/*
 *://*.mairie72.fr/*
@@ -960,6 +961,7 @@ domains_count: 1229
 *://*.pole-innovation.fr/*
 *://*.politique-digitale.fr/*
 *://*.popcorngame.fr/*
+*://*.popotech.fr/*
 *://*.popvoyages.com/*
 *://*.portail-sante.be/*
 *://*.portices.fr/*
@@ -1024,6 +1026,7 @@ domains_count: 1229
 *://*.reseau-regain.net/*
 *://*.respectmag.com/*
 *://*.restaurants-de-france.fr/*
+*://*.resterconnecte.com/*
 *://*.reussir-sa-boite.fr/*
 *://*.revemexicain.com/*
 *://*.revolution-energetique.com/*

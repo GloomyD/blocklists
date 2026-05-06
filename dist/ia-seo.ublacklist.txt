@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-04-23T06:43:29Z
-domains_count: 1238
+generated_at: 2026-05-06T13:34:18Z
+domains_count: 1242
 ---
 
 *://*.1000nouvelles.com/*
@@ -442,6 +442,7 @@ domains_count: 1238
 *://*.franceflash.fr/*
 *://*.francematin.info/*
 *://*.francemedicale.net/*
+*://*.francerent.com/*
 *://*.franchementbien.fr/*
 *://*.franciscopolis.com/*
 *://*.frapna.org/*
@@ -453,6 +454,7 @@ domains_count: 1238
 *://*.frenchhub.fr/*
 *://*.frenchtimes.fr/*
 *://*.friendly-fire.fr/*
+*://*.frmonjournal.com/*
 *://*.fun-academy.fr/*
 *://*.furialiga.fr/*
 *://*.futureaufeminin.org/*
@@ -959,6 +961,7 @@ domains_count: 1238
 *://*.playnews.fr/*
 *://*.pleinevie.fr/*
 *://*.plumeti.fr/*
+*://*.pme-actu.fr/*
 *://*.pointblog.com/*
 *://*.pointgphone.com/*
 *://*.poitou-charentes.org/*
@@ -1072,6 +1075,7 @@ domains_count: 1238
 *://*.seniors-actu.com/*
 *://*.seniors-magazine.net/*
 *://*.seniors-voyages.com/*
+*://*.seniorsconnexion.fr/*
 *://*.seniorsurfers.org/*
 *://*.seret-medecine.org/*
 *://*.service-gratuit-fr.com/*

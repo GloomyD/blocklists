@@ -432,6 +432,7 @@ francedaily.news
 franceflash.fr
 francematin.info
 francemedicale.net
+francerent.com
 franchementbien.fr
 franciscopolis.com
 frapna.org
@@ -443,6 +444,7 @@ frenchgarden.fr
 frenchhub.fr
 frenchtimes.fr
 friendly-fire.fr
+frmonjournal.com
 fun-academy.fr
 furialiga.fr
 futureaufeminin.org
@@ -949,6 +951,7 @@ plasmareview.fr
 playnews.fr
 pleinevie.fr
 plumeti.fr
+pme-actu.fr
 pointblog.com
 pointgphone.com
 poitou-charentes.org
@@ -1062,6 +1065,7 @@ seniornews.fr
 seniors-actu.com
 seniors-magazine.net
 seniors-voyages.com
+seniorsconnexion.fr
 seniorsurfers.org
 seret-medecine.org
 service-gratuit-fr.com

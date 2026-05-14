@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-05-06T13:34:18Z
-domains_count: 1242
+generated_at: 2026-05-14T10:32:18Z
+domains_count: 1246
 ---
 
 *://*.1000nouvelles.com/*
@@ -314,6 +314,7 @@ domains_count: 1242
 *://*.deshydrateur.org/*
 *://*.designers-avenue.com/*
 *://*.destinationsmed.com/*
+*://*.detectiveprive-lyon.fr/*
 *://*.developpement-entreprise.com/*
 *://*.developpements.org/*
 *://*.devenirparent.net/*
@@ -415,6 +416,7 @@ domains_count: 1242
 *://*.fldhebdo.fr/*
 *://*.focm.net/*
 *://*.focusur.fr/*
+*://*.foisdefrance.fr/*
 *://*.foodiesandfamily.fr/*
 *://*.foot-anglais.net/*
 *://*.footblog.fr/*
@@ -449,6 +451,7 @@ domains_count: 1242
 *://*.freelanceinfos.fr/*
 *://*.freenews.fr/*
 *://*.freesport.fr/*
+*://*.frenchblog.fr/*
 *://*.frenchbreaches.com/*
 *://*.frenchgarden.fr/*
 *://*.frenchhub.fr/*
@@ -806,6 +809,7 @@ domains_count: 1242
 *://*.michelledastier.org/*
 *://*.minoritaires.com/*
 *://*.minutenews.fr/*
+*://*.mirevo.fr/*
 *://*.miroir-mag.fr/*
 *://*.miss-deco.fr/*
 *://*.misseve.fr/*

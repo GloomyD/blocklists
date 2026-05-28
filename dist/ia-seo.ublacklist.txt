@@ -4,7 +4,7 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-05-28T07:17:44Z
+generated_at: 2026-05-28T07:30:22Z
 domains_count: 1249
 ---
 

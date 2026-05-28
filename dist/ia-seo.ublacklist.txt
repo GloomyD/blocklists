@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-05-14T10:32:18Z
-domains_count: 1246
+generated_at: 2026-05-28T07:17:44Z
+domains_count: 1249
 ---
 
 *://*.1000nouvelles.com/*
@@ -111,6 +111,7 @@ domains_count: 1246
 *://*.apres-lecole.fr/*
 *://*.aqi.fr/*
 *://*.aquaplus-info.com/*
+*://*.aquazena-issy.fr/*
 *://*.aquitaineonline.com/*
 *://*.arbweb.info/*
 *://*.arcadi.fr/*
@@ -236,6 +237,7 @@ domains_count: 1246
 *://*.cherifaistesvalises.com/*
 *://*.chez-tante-edith.com/*
 *://*.chimenebadi.fr/*
+*://*.chirurgie-mains-epaules.fr/*
 *://*.chocolatcannelle.fr/*
 *://*.chorus-chanson.fr/*
 *://*.chrono-immobilier.fr/*
@@ -806,6 +808,7 @@ domains_count: 1246
 *://*.meteo-mc.fr/*
 *://*.mg-psy.org/*
 *://*.mi-blog.net/*
+*://*.mi4ever.fr/*
 *://*.michelledastier.org/*
 *://*.minoritaires.com/*
 *://*.minutenews.fr/*

@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-05-28T07:30:22Z
-domains_count: 1249
+generated_at: 2026-06-24T09:27:49Z
+domains_count: 1252
 ---
 
 *://*.1000nouvelles.com/*
@@ -322,6 +322,7 @@ domains_count: 1249
 *://*.devenirparent.net/*
 *://*.dicofr.com/*
 *://*.dieteticienne-mantes.fr/*
+*://*.diffusion-bienetre.fr/*
 *://*.digilabs.fr/*
 *://*.digipolis.fr/*
 *://*.digitalhunter.fr/*
@@ -502,6 +503,7 @@ domains_count: 1249
 *://*.greenseniors.org/*
 *://*.greenworks.lu/*
 *://*.greenzer.fr/*
+*://*.grossisteprive.fr/*
 *://*.groupe-crc.org/*
 *://*.gtlf.fr/*
 *://*.gtr-online.com/*
@@ -643,6 +645,7 @@ domains_count: 1249
 *://*.latabledejeanne.net/*
 *://*.lavoixdefrance.fr/*
 *://*.lbe.news/*
+*://*.le-bagnolard.fr/*
 *://*.le-blog-du-geek.net/*
 *://*.le-bon-sens.com/*
 *://*.le-bouchon.fr/*

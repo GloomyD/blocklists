@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-06-24T09:27:49Z
-domains_count: 1252
+generated_at: 2026-07-02T07:00:38Z
+domains_count: 1262
 ---
 
 *://*.1000nouvelles.com/*
@@ -173,6 +173,7 @@ domains_count: 1252
 *://*.bilansgratuits.fr/*
 *://*.bistoule.net/*
 *://*.blockchainfrance.net/*
+*://*.blog-united.com/*
 *://*.blog-zik.com/*
 *://*.blog.ajuv.fr/*
 *://*.blogdudemocrate.org/*
@@ -448,6 +449,7 @@ domains_count: 1252
 *://*.francematin.info/*
 *://*.francemedicale.net/*
 *://*.francerent.com/*
+*://*.franceroutes.net/*
 *://*.franchementbien.fr/*
 *://*.franciscopolis.com/*
 *://*.frapna.org/*
@@ -478,6 +480,7 @@ domains_count: 1252
 *://*.garconne-magazine.fr/*
 *://*.gasy.net/*
 *://*.geekmedical.fr/*
+*://*.geekodrome.fr/*
 *://*.geekopolis.fr/*
 *://*.geekplay.fr/*
 *://*.geeksource.fr/*
@@ -499,6 +502,7 @@ domains_count: 1252
 *://*.gpmetropole.fr/*
 *://*.gr10.fr/*
 *://*.grandestcyclisme.fr/*
+*://*.gre-business.com/*
 *://*.gre-mag.fr/*
 *://*.greenseniors.org/*
 *://*.greenworks.lu/*
@@ -522,6 +526,7 @@ domains_count: 1252
 *://*.highmotor.com/*
 *://*.hikamp.com/*
 *://*.hinsolite.com/*
+*://*.hippocampe-editions.fr/*
 *://*.hitsandclips.fr/*
 *://*.homemedia.fr/*
 *://*.homeophyto.topsante.com/*
@@ -548,6 +553,7 @@ domains_count: 1252
 *://*.infos-israel.news/*
 *://*.infos-nantes.fr/*
 *://*.infosdujour.net/*
+*://*.inigeek.fr/*
 *://*.innastudio.com/*
 *://*.innovations.fr/*
 *://*.insajderi.org/*
@@ -779,6 +785,7 @@ domains_count: 1252
 *://*.maman-modeuse.com/*
 *://*.mamzelleh.com/*
 *://*.mangamag.fr/*
+*://*.map24.com/*
 *://*.mapetiterando.fr/*
 *://*.maplehorst.com/*
 *://*.mariagesdumonde.net/*
@@ -846,6 +853,7 @@ domains_count: 1252
 *://*.moyens.net/*
 *://*.mrboo.fr/*
 *://*.murmures.info/*
+*://*.museeinformatique.fr/*
 *://*.musiqueurbaine.fr/*
 *://*.my-angers.info/*
 *://*.my-jugaad.eu/*
@@ -938,6 +946,7 @@ domains_count: 1252
 *://*.parolesdefemmes.org/*
 *://*.parti-du-plaisir.com/*
 *://*.partitionchoeur.fr/*
+*://*.parvisdesgentils.fr/*
 *://*.passion-maisons.fr/*
 *://*.passion-net.fr/*
 *://*.pauinfo.fr/*
@@ -1042,6 +1051,7 @@ domains_count: 1252
 *://*.repandre.com/*
 *://*.reponsesante.com/*
 *://*.reportagesphotos.fr/*
+*://*.reseau-egc.fr/*
 *://*.reseau-regain.net/*
 *://*.respectmag.com/*
 *://*.restaurants-de-france.fr/*

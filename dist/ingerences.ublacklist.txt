@@ -4,8 +4,8 @@ description: "Domains linked to foreign interference operations (source: Viginum
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-07-02T07:00:38Z
-domains_count: 4203
+generated_at: 2026-07-29T03:22:31Z
+domains_count: 4206
 ---
 
 *://*.000webhostapp.com/*
@@ -442,6 +442,7 @@ domains_count: 4203
 *://*.blocklime.com/*
 *://*.blog-perfumes.pt/*
 *://*.blogarama.com/*
+*://*.blogdesophie.com/*
 *://*.bloggang.com/*
 *://*.blogkiemtien.top/*
 *://*.blogspot.com/*
@@ -895,6 +896,7 @@ domains_count: 4203
 *://*.delfi.today/*
 *://*.delfi.top/*
 *://*.delfl.cc/*
+*://*.delogupourpalestine.com/*
 *://*.delovoy.info/*
 *://*.democracydepth.com/*
 *://*.democracydive.com/*
@@ -1292,6 +1294,7 @@ domains_count: 4203
 *://*.forevernews.in/*
 *://*.forex100academy.com/*
 *://*.forincs.com/*
+*://*.forsane-alizza.eu/*
 *://*.fortmcmurraytoday.com/*
 *://*.fortsaskatchewanrecord.com/*
 *://*.fortunetime.us/*
@@ -1940,6 +1943,7 @@ domains_count: 4203
 *://*.lagrangenews.com/*
 *://*.lakeshoreadvance.com/*
 *://*.lakestarreview.com/*
+*://*.lalternative2026.com/*
 *://*.lanacion.com.ar/*
 *://*.langfarms.com/*
 *://*.langmir.ru/*
@@ -2237,7 +2241,6 @@ domains_count: 4203
 *://*.medicalhomeportal.boo/*
 *://*.medicinman.net/*
 *://*.medischpersbericht.nl/*
-*://*.medium.com/*
 *://*.megabolsa.com/*
 *://*.mehrstimmen.de/*
 *://*.meiji-mura.com/*
@@ -2831,6 +2834,7 @@ domains_count: 4203
 *://*.pinchercreekecho.com/*
 *://*.pioneerpublishers.com/*
 *://*.pipstoday.com/*
+*://*.piquemalzero.com/*
 *://*.pitchengine.com.au/*
 *://*.piter-news.net/*
 *://*.pittsburghstar.com/*
@@ -3030,6 +3034,7 @@ domains_count: 4203
 *://*.rbk.media/*
 *://*.rbk.today/*
 *://*.rca.news-pravda.com/*
+*://*.rcn-france.com/*
 *://*.re-port.ru/*
 *://*.readawrite.com/*
 *://*.realsimple.sbs/*
@@ -3815,7 +3820,6 @@ domains_count: 4203
 *://*.tula-news.net/*
 *://*.tullahomanews.com/*
 *://*.tulunet.com/*
-*://*.tumblr.com/*
 *://*.tumbral.com/*
 *://*.turbocash.co.za/*
 *://*.turkey.news-pravda.com/*
@@ -4118,7 +4122,6 @@ domains_count: 4203
 *://*.winnipegsun.com/*
 *://*.winslowevanscrocker.com/*
 *://*.wisconsinchronicle.com/*
-*://*.wixsite.com/*
 *://*.wiziin.com/*
 *://*.wjhl.com/*
 *://*.wkrg.com/*

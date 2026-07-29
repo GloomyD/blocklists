@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-07-02T07:00:38Z
-domains_count: 1262
+generated_at: 2026-07-29T03:22:31Z
+domains_count: 1264
 ---
 
 *://*.1000nouvelles.com/*
@@ -548,6 +548,7 @@ domains_count: 1262
 *://*.incroyablemaison.com/*
 *://*.indereunion.net/*
 *://*.indigobuzz.fr/*
+*://*.info.fr/*
 *://*.info07.com/*
 *://*.informatique-securite.net/*
 *://*.infos-israel.news/*
@@ -649,6 +650,7 @@ domains_count: 1262
 *://*.lasocietenouvelle.net/*
 *://*.lassurance-obseques.fr/*
 *://*.latabledejeanne.net/*
+*://*.lautomobiliste.fr/*
 *://*.lavoixdefrance.fr/*
 *://*.lbe.news/*
 *://*.le-bagnolard.fr/*

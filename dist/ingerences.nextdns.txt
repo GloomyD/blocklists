@@ -432,6 +432,7 @@ blockexplorers.space
 blocklime.com
 blog-perfumes.pt
 blogarama.com
+blogdesophie.com
 bloggang.com
 blogkiemtien.top
 blogspot.com
@@ -885,6 +886,7 @@ delfi.life
 delfi.today
 delfi.top
 delfl.cc
+delogupourpalestine.com
 delovoy.info
 democracydepth.com
 democracydive.com
@@ -1282,6 +1284,7 @@ forestagriservices.com
 forevernews.in
 forex100academy.com
 forincs.com
+forsane-alizza.eu
 fortmcmurraytoday.com
 fortsaskatchewanrecord.com
 fortunetime.us
@@ -1930,6 +1933,7 @@ lafrancesouveraine.fr.savoirtout.fr
 lagrangenews.com
 lakeshoreadvance.com
 lakestarreview.com
+lalternative2026.com
 lanacion.com.ar
 langfarms.com
 langmir.ru
@@ -2227,7 +2231,6 @@ mediaverse.com.au
 medicalhomeportal.boo
 medicinman.net
 medischpersbericht.nl
-medium.com
 megabolsa.com
 mehrstimmen.de
 meiji-mura.com
@@ -2821,6 +2824,7 @@ pinayads.com
 pinchercreekecho.com
 pioneerpublishers.com
 pipstoday.com
+piquemalzero.com
 pitchengine.com.au
 piter-news.net
 pittsburghstar.com
@@ -3020,6 +3024,7 @@ rbk.kiev.ua
 rbk.media
 rbk.today
 rca.news-pravda.com
+rcn-france.com
 re-port.ru
 readawrite.com
 realsimple.sbs
@@ -3805,7 +3810,6 @@ ttlink.com
 tula-news.net
 tullahomanews.com
 tulunet.com
-tumblr.com
 tumbral.com
 turbocash.co.za
 turkey.news-pravda.com
@@ -4108,7 +4112,6 @@ windsorweekly.com
 winnipegsun.com
 winslowevanscrocker.com
 wisconsinchronicle.com
-wixsite.com
 wiziin.com
 wjhl.com
 wkrg.com

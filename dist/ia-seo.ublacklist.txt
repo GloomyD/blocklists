@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-07-29T03:22:31Z
-domains_count: 1264
+generated_at: 2026-08-21T10:03:32Z
+domains_count: 1277
 ---
 
 *://*.1000nouvelles.com/*
@@ -43,6 +43,8 @@ domains_count: 1264
 *://*.actu-pme.ch/*
 *://*.actu-rando.fr/*
 *://*.actu-retail.fr/*
+*://*.actu.capital.fr/*
+*://*.actu.geo.fr/*
 *://*.actuafoot.fr/*
 *://*.actual-immo.fr/*
 *://*.actualite-fr.com/*
@@ -204,6 +206,7 @@ domains_count: 1264
 *://*.cabinetcatteau.fr/*
 *://*.cadres-dirigeants.fr/*
 *://*.cafebabel.fr/*
+*://*.caffeinecommons.com/*
 *://*.cambodgepost.com/*
 *://*.cameliajordana.fr/*
 *://*.camereco.com/*
@@ -237,6 +240,7 @@ domains_count: 1264
 *://*.checkfood.fr/*
 *://*.cherifaistesvalises.com/*
 *://*.chez-tante-edith.com/*
+*://*.chillfactfun.com/*
 *://*.chimenebadi.fr/*
 *://*.chirurgie-mains-epaules.fr/*
 *://*.chocolatcannelle.fr/*
@@ -389,6 +393,7 @@ domains_count: 1264
 *://*.evenement.com/*
 *://*.evinux.org/*
 *://*.expertise-entreprise.com/*
+*://*.expertproduct.review/*
 *://*.experts-tourisme.fr/*
 *://*.explore.st-aug.edu/*
 *://*.expressparole.com/*
@@ -548,6 +553,7 @@ domains_count: 1264
 *://*.incroyablemaison.com/*
 *://*.indereunion.net/*
 *://*.indigobuzz.fr/*
+*://*.info-beaute.com/*
 *://*.info.fr/*
 *://*.info07.com/*
 *://*.informatique-securite.net/*
@@ -590,6 +596,7 @@ domains_count: 1264
 *://*.journaldesseniors.20minutes.fr/*
 *://*.journaldufreenaute.fr/*
 *://*.journalpremiereedition.com/*
+*://*.journaltendance.com/*
 *://*.journee-mondiale.com/*
 *://*.journees-prevention-santepublique.fr/*
 *://*.jp-blog.org/*
@@ -785,6 +792,7 @@ domains_count: 1264
 *://*.mall-center.shopping/*
 *://*.maman-bebes.fr/*
 *://*.maman-modeuse.com/*
+*://*.mameilleure-mutuelle.com/*
 *://*.mamzelleh.com/*
 *://*.mangamag.fr/*
 *://*.map24.com/*
@@ -993,6 +1001,7 @@ domains_count: 1264
 *://*.popotech.fr/*
 *://*.popvoyages.com/*
 *://*.portail-sante.be/*
+*://*.portaildecomparaison.fr/*
 *://*.portices.fr/*
 *://*.positifforum.com/*
 *://*.positivr.fr/*
@@ -1079,9 +1088,11 @@ domains_count: 1264
 *://*.samian.ca/*
 *://*.sante-beaute-forme.com/*
 *://*.sante-net.net/*
+*://*.sante-senior.mameilleure-mutuelle.com/*
 *://*.sante365.org/*
 *://*.saviezvous.fr/*
 *://*.scenemichelet.com/*
+*://*.science-actualite.com/*
 *://*.sciencepost.fr/*
 *://*.sciences-et-democratie.net/*
 *://*.scolinfo.net/*
@@ -1099,6 +1110,7 @@ domains_count: 1264
 *://*.seniors-voyages.com/*
 *://*.seniorsconnexion.fr/*
 *://*.seniorsurfers.org/*
+*://*.serenalpes.com/*
 *://*.seret-medecine.org/*
 *://*.service-gratuit-fr.com/*
 *://*.services-b2b.fr/*
@@ -1194,6 +1206,7 @@ domains_count: 1264
 *://*.toutenparfum.com/*
 *://*.toutjardindirect.fr/*
 *://*.travelando.fr/*
+*://*.trending-hunt.com/*
 *://*.trendly.fr/*
 *://*.triboland.com/*
 *://*.troyes-obs.fr/*

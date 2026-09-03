@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-08-22T11:22:18Z
-domains_count: 1278
+generated_at: 2026-09-03T15:45:31Z
+domains_count: 1279
 ---
 
 *://*.1000nouvelles.com/*
@@ -1281,6 +1281,7 @@ domains_count: 1278
 *://*.yourmagazine.fr/*
 *://*.yourtopia.fr/*
 *://*.zamante.com/*
+*://*.zcld.fr/*
 *://*.ze-mag.info/*
 *://*.ziknation.com/*
 *://*.zindep.com/*

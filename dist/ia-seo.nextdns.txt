@@ -188,6 +188,7 @@ bricomag-media.com
 brtv.fr
 bulletindescommunes.net
 bus-agglo.fr
+businessclubdefrance.com
 buzzday.fr
 buzzly.fr
 buzzwebzine.fr
@@ -252,6 +253,8 @@ claudeleveque.com
 cleaningtipstoday.com
 clicanoo.com
 clicgarden.net
+climategatecountryclub.com
+climateresponseblog.com
 club-voyageur.fr
 clubdes500.com
 cmim.fr
@@ -300,6 +303,7 @@ decogeek.fr
 decontair-67.fr
 decripto.org
 dededanssonjardin.com
+defis-et-decouvertes.fr
 delablousealatoque.fr
 delicesdinities.fr
 delitsdopinion.com
@@ -314,6 +318,7 @@ destinationsmed.com
 detectiveprive-lyon.fr
 developpement-entreprise.com
 developpements.org
+devenezundiamant.com
 devenirparent.net
 dicofr.com
 dieteticienne-mantes.fr
@@ -363,6 +368,7 @@ eln-voces.com
 embarcadere-bordeaux.fr
 emerydolige.fr
 emploi-manche.fr
+emploivertpourtous.fr
 en-direct-de-la-maison.com
 encd.fr
 enfance-libertes.fr
@@ -419,6 +425,7 @@ foisdefrance.fr
 foodiesandfamily.fr
 foot-anglais.net
 footblog.fr
+footiledefrance.fr
 foozine.com
 formation-publique.com
 fortiffsere.fr
@@ -441,6 +448,7 @@ france-sports.fr
 franceapprentissage.fr
 francedaily.news
 franceflash.fr
+francelemagazine.fr
 francematin.info
 francemedicale.net
 francerent.com
@@ -1241,6 +1249,7 @@ vins-et-terroirs.com
 viralmag.fr
 visaloire.com
 vivezdecorez.com
+vivo-green.fr
 vivredemain.fr
 vocatis.fr
 voi.id

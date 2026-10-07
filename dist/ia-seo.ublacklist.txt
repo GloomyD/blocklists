@@ -4,8 +4,8 @@ description: "Domains producing low-quality AI-generated or SEO-spam content (ma
 homepage: "https://github.com/GloomyD/blocklists"
 license: CC-BY-4.0
 version: 1
-generated_at: 2026-09-03T15:45:31Z
-domains_count: 1279
+generated_at: 2026-10-07T16:43:46Z
+domains_count: 1288
 ---
 
 *://*.1000nouvelles.com/*
@@ -198,6 +198,7 @@ domains_count: 1279
 *://*.brtv.fr/*
 *://*.bulletindescommunes.net/*
 *://*.bus-agglo.fr/*
+*://*.businessclubdefrance.com/*
 *://*.buzzday.fr/*
 *://*.buzzly.fr/*
 *://*.buzzwebzine.fr/*
@@ -262,6 +263,8 @@ domains_count: 1279
 *://*.cleaningtipstoday.com/*
 *://*.clicanoo.com/*
 *://*.clicgarden.net/*
+*://*.climategatecountryclub.com/*
+*://*.climateresponseblog.com/*
 *://*.club-voyageur.fr/*
 *://*.clubdes500.com/*
 *://*.cmim.fr/*
@@ -310,6 +313,7 @@ domains_count: 1279
 *://*.decontair-67.fr/*
 *://*.decripto.org/*
 *://*.dededanssonjardin.com/*
+*://*.defis-et-decouvertes.fr/*
 *://*.delablousealatoque.fr/*
 *://*.delicesdinities.fr/*
 *://*.delitsdopinion.com/*
@@ -324,6 +328,7 @@ domains_count: 1279
 *://*.detectiveprive-lyon.fr/*
 *://*.developpement-entreprise.com/*
 *://*.developpements.org/*
+*://*.devenezundiamant.com/*
 *://*.devenirparent.net/*
 *://*.dicofr.com/*
 *://*.dieteticienne-mantes.fr/*
@@ -373,6 +378,7 @@ domains_count: 1279
 *://*.embarcadere-bordeaux.fr/*
 *://*.emerydolige.fr/*
 *://*.emploi-manche.fr/*
+*://*.emploivertpourtous.fr/*
 *://*.en-direct-de-la-maison.com/*
 *://*.encd.fr/*
 *://*.enfance-libertes.fr/*
@@ -429,6 +435,7 @@ domains_count: 1279
 *://*.foodiesandfamily.fr/*
 *://*.foot-anglais.net/*
 *://*.footblog.fr/*
+*://*.footiledefrance.fr/*
 *://*.foozine.com/*
 *://*.formation-publique.com/*
 *://*.fortiffsere.fr/*
@@ -451,6 +458,7 @@ domains_count: 1279
 *://*.franceapprentissage.fr/*
 *://*.francedaily.news/*
 *://*.franceflash.fr/*
+*://*.francelemagazine.fr/*
 *://*.francematin.info/*
 *://*.francemedicale.net/*
 *://*.francerent.com/*
@@ -1251,6 +1259,7 @@ domains_count: 1279
 *://*.viralmag.fr/*
 *://*.visaloire.com/*
 *://*.vivezdecorez.com/*
+*://*.vivo-green.fr/*
 *://*.vivredemain.fr/*
 *://*.vocatis.fr/*
 *://*.voi.id/*
